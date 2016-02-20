@@ -1,4 +1,6 @@
-//Copyright (c) Microsoft Corporation All rights reserved.  
+// Modified from:
+//
+//Copyright (c) Microsoft Corporation All rights reserved.
 // 
 //MIT License: 
 // 
@@ -30,6 +32,7 @@ import com.microsoft.band.sensors.BandHeartRateEvent;
 import com.microsoft.band.sensors.BandHeartRateEventListener;
 import com.microsoft.band.sensors.HeartRateConsentListener;
 
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.app.Activity;
@@ -76,10 +79,8 @@ public class BandHeartRateAppActivity extends Activity {
                     } else if (heartRate > high) {
                         Smooch.getConversation().sendMessage(new Message("Heart Rate is too high: "+statusStr));
                         msgSent = true;
-
                     }
                 } else if ((heartRate > low && heartRate < high) && msgSent == true) {
-
                     Smooch.getConversation().sendMessage(new Message("Back to normal: "+statusStr));
                     msgSent = false;
                 }
@@ -87,10 +88,20 @@ public class BandHeartRateAppActivity extends Activity {
             }
         }
     };
-	
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        SharedPreferences preferences = getSharedPreferences("heartApp", MODE_PRIVATE);
+        boolean firstLaunch = preferences.getBoolean("firstLaunch", true);
+        if (firstLaunch) {
+            Smooch.track("init");
+            preferences.edit().putBoolean("firstLaunch", false).apply();
+        }
+
         setContentView(R.layout.activity_main);
 
         User.getCurrentUser().setFirstName("John");

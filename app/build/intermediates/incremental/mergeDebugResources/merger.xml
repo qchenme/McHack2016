@@ -1373,7 +1373,7 @@
         data by pressing the Heart Rate Consent button and then pressing
         yes on the dialog that pops up.\n
         4. Press the Start button\n
-        5. Data from the heart rate sensor should be displayed.</string><string name="help">!!!Help!!!</string></file><file path="/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        5. Data from the heart rate sensor should be displayed.</string><string name="help">Chat with Dr Heart</string></file><file path="/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style><style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
         <!--

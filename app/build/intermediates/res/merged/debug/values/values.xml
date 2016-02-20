@@ -319,7 +319,7 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="consent">Heart Rate Consent</string>
-    <string name="help">!!!Help!!!</string>
+    <string name="help">Chat with Dr Heart</string>
     <string name="start">Start</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steps">Steps to use this app: \n
