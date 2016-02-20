@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.microsoft.band.sdk.heartrate"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="com.microsoft.band.service.access.BIND_BAND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name="com.microsoft.band.sdk.heartrate.heartrate"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.microsoft.band.sdk.heartrate.BandHeartRateAppActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="io.smooch.core.service.SmoochService"
+            android:exported="false" />
+        <service
+            android:name="io.smooch.core.GcmInstanceIDListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="io.smooch.core.GcmRegistrationIntentService"
+            android:exported="false" />
+        <service
+            android:name="io.smooch.core.GcmService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="io.smooch.ui.ConversationActivity"
+            android:label="@string/Smooch_activityConversation"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.Smooch" />
+
+        <receiver
+            android:name="io.smooch.ui.notification.NotificationReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="io.smooch.NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

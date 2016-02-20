@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="Smooch_activityConversation">Сообщения</string>
+    <string name="Smooch_btnSend">Отправить</string>
+    <string name="Smooch_errorCouldNotConnect">Не удалось подключиться к серверу.</string>
+    <string name="Smooch_errorSendingMessage">Сообщение не доставлено. Коснитесь, чтобы повторить попытку.</string>
+    <string name="Smooch_errorUserOffline">Подключение к Интернету отсутствует.</string>
+    <string name="Smooch_messageHint">Введите сообщение…</string>
+    <string name="Smooch_startOfConversation">Это начало вашего разговора с командой %1$s. Мы остаемся на связи, чтобы помочь вам получить максимум пользы от вашего приложения.</string>
+    <string name="Smooch_welcome">Не стесняйтесь делиться с нами любыми своими мыслями. Мы в самое ближайшее время рассмотрим все ваши вопросы, предложения и т.д.</string>
+</resources>

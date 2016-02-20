@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="Smooch_accent">#9200aa</color>
+    <color name="Smooch_accentDark">#76008a</color>
+    <color name="Smooch_accentDarker">#66008a</color>
+    <color name="Smooch_accentFailure">#c178cd</color>
+    <color name="Smooch_accentLight">#be7cca</color>
+    <color name="Smooch_btnActionButton">#eeeeee</color>
+    <color name="Smooch_btnActionButtonPressed">#cccccc</color>
+    <color name="Smooch_btnActionButtonRipple">#c0c0c0</color>
+    <color name="Smooch_btnSendHollow">#7fc0c0c0</color>
+    <color name="Smooch_btnSendHollowBorder">#c0c0c0</color>
+    <color name="Smooch_header">#a0a0a0</color>
+    <color name="Smooch_inputTextBackground">#ffffff</color>
+    <color name="Smooch_inputTextColor">#212121</color>
+    <color name="Smooch_inputTextColorHint">#bdbdbd</color>
+    <color name="Smooch_messageDate">@color/Smooch_header</color>
+    <color name="Smooch_remoteMessageAuthor">@color/Smooch_header</color>
+    <color name="Smooch_remoteMessageBackground">#ffffff</color>
+    <color name="Smooch_remoteMessageBorder">#d9d9d9</color>
+    <color name="Smooch_remoteMessageText">#212121</color>
+    <color name="Smooch_userMessageBackground">@color/Smooch_accent</color>
+    <color name="Smooch_userMessageBorder">@color/Smooch_accentDark</color>
+    <color name="Smooch_userMessageFailedBackground">@color/Smooch_accentFailure</color>
+    <color name="Smooch_userMessageFailedBorder">@color/Smooch_accentFailure</color>
+    <color name="Smooch_userMessageText">#ffffff</color>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="null_color" type="color">234234</item>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="text_failure_color">#ff2851</color>
+    <color name="text_helper_color">#a8a8a8</color>
+    <declare-styleable name="CreditCardForm"><attr format="boolean" name="include_exp"/><attr format="boolean" name="include_security"/><attr format="boolean" name="include_zip"/><attr format="color" name="text_color"/><attr format="color" name="hint_text_color"/><attr format="color" name="cursor_color"/><attr format="string" name="card_number_hint"/><attr format="reference" name="input_background"/></declare-styleable>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="Smooch_btnActionHeight">43dp</dimen>
+    <dimen name="Smooch_btnActionMarginHorizontal">0dp</dimen>
+    <dimen name="Smooch_btnActionMarginVertical">5dp</dimen>
+    <dimen name="Smooch_btnActionPaddingHorizontal">15dp</dimen>
+    <dimen name="Smooch_btnActionPaddingVertical">8dp</dimen>
+    <dimen name="Smooch_btnActionRadius">3dp</dimen>
+    <dimen name="Smooch_btnActionText">@dimen/Smooch_header</dimen>
+    <dimen name="Smooch_btnSendHollowBorder">1px</dimen>
+    <dimen name="Smooch_header">12sp</dimen>
+    <dimen name="Smooch_inputTextSize">@dimen/Smooch_messageText</dimen>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/settings.xml -->
+    <eat-comment/>
+    <item format="float" name="Smooch_lineSpacingMultiplier" type="dimen">1.25</item>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="Smooch_messageArrowHeight">4dp</dimen>
+    <dimen name="Smooch_messageArrowWidth">4dp</dimen>
+    <dimen name="Smooch_messageAuthor">@dimen/Smooch_header</dimen>
+    <dimen name="Smooch_messageAvatar">36dp</dimen>
+    <dimen name="Smooch_messageBorder">1dp</dimen>
+    <dimen name="Smooch_messageDate">@dimen/Smooch_header</dimen>
+    <dimen name="Smooch_messageMargin">65dp</dimen>
+    <dimen name="Smooch_messagePaddingHorizontal">12dp</dimen>
+    <dimen name="Smooch_messagePaddingVertical">8dp</dimen>
+    <dimen name="Smooch_messageRadius">3dp</dimen>
+    <dimen name="Smooch_messageShadow">2dp</dimen>
+    <dimen name="Smooch_messageText">15sp</dimen>
+    <dimen name="Smooch_stripeSavedCardHeight">400dp</dimen>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="cc_card" type="id">2222</item>
+    <item name="cc_ccv" type="id">4444</item>
+    <item name="cc_entry" type="id">1000</item>
+    <item name="cc_entry_internal" type="id">3000</item>
+    <item name="cc_exp" type="id">3333</item>
+    <item name="cc_form_layout" type="id">1111</item>
+    <item name="cc_zip" type="id">5555</item>
+    <item name="custom" type="id"/>
+    <item name="text_helper" type="id">2000</item>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/settings.xml -->
+    <eat-comment/>
+    <integer name="Smooch_settings_hoursBetweenTimestamps">6</integer>
+    <integer name="Smooch_settings_inputMaxLines">5</integer>
+    <integer name="Smooch_settings_notificationId">1</integer>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Smooch_activityConversation">Messages</string>
+    <string name="Smooch_btnChangeCard">Change Credit Card</string>
+    <string name="Smooch_btnPayNow">Pay Now</string>
+    <string name="Smooch_btnPaymentCompleted">Payment Completed</string>
+    <string name="Smooch_btnSend">Send</string>
+    <string name="Smooch_creditErrorMessage">An error occurred while processing the card. Try again or use a different card.</string>
+    <string name="Smooch_creditMessage">Enter your credit card to send %1$s securely to %2$s.</string>
+    <string name="Smooch_errorCouldNotConnect">Could not connect to server.</string>
+    <string name="Smooch_errorSendingMessage">Message not delivered. Tap to retry.</string>
+    <string name="Smooch_errorUserOffline">No Internet connection.</string>
+    <string name="Smooch_messageHint">Type a message…</string>
+    <string name="Smooch_savedCreditMessage">You\'re about to send %1$s securely to %2$s.</string>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/settings.xml -->
+    <eat-comment/>
+    <string name="Smooch_settings_notificationTag">Smooch</string>
+    <string name="Smooch_settings_timestampFormat">MMMM d, h:mm a</string>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Smooch_startOfConversation">This is the start of your conversation with the %1$s team. We\'ll stay in touch to help you get the most out of your app.</string>
+    <string name="Smooch_welcome">Feel free to leave us a message about anything that\'s on your mind. We\'ll get back to your questions, suggestion or anything else as soon as we can.</string>
+    <!-- From: file:/Users/julian/src/smooch-android/ui/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Smooch" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="actionBarStyle">@style/Theme.Smooch.ActionBar</item>
+        <item name="colorAccent">@color/Smooch_accent</item>
+        <item name="colorPrimary">@color/Smooch_accent</item>
+        <item name="colorPrimaryDark">@color/Smooch_accentDark</item>
+    </style>
+    <style name="Theme.Smooch.ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">@color/Smooch_accent</item>
+    </style>
+</resources>

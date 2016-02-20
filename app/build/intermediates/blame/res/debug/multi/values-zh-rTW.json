@@ -1,0 +1,1014 @@
+[
+    {
+        "outputFile": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 58,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 58,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 45,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 45,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 65,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 65,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 69,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 69,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 59,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 59,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 53,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 53,
+                        "endOffset": 523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 94,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 528,
+                        "endColumn": 94,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 72,
+                    "endOffset": 623
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 72,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 628,
+                    "endColumn": 94,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 94,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 92,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 92,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 99,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 99,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 81,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 81,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 96,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 96,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endColumn": 107,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 107,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 95,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 95,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 95,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 95,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 94,
+                    "endOffset": 1485
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 94,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1490,
+                    "endColumn": 96,
+                    "endOffset": 1582
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1157,
+                        "endColumn": 96,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1587,
+                    "endColumn": 94,
+                    "endOffset": 1677
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1254,
+                        "endColumn": 94,
+                        "endOffset": 1344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1682,
+                    "endColumn": 99,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1349,
+                        "endColumn": 99,
+                        "endOffset": 1444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 112,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1449,
+                        "endColumn": 112,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 167,
+                    "endOffset": 2058
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 171,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2063,
+                    "endColumn": 154,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2283,
+                        "endColumn": 158,
+                        "endOffset": 2437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 106,
+                    "endOffset": 2320
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 106,
+                        "endOffset": 2114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2325,
+                    "endColumn": 200,
+                    "endOffset": 2521
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4049,
+                        "endColumn": 204,
+                        "endOffset": 4249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2526,
+                    "endColumn": 117,
+                    "endOffset": 2639
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endColumn": 117,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2644,
+                    "endColumn": 159,
+                    "endOffset": 2799
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1613,
+                        "endColumn": 163,
+                        "endOffset": 1772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2804,
+                    "endColumn": 115,
+                    "endOffset": 2915
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 115,
+                        "endOffset": 1608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2920,
+                    "endColumn": 161,
+                    "endOffset": 3077
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 165,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3082,
+                    "endColumn": 118,
+                    "endOffset": 3196
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 118,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3201,
+                    "endColumn": 171,
+                    "endOffset": 3368
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 175,
+                        "endOffset": 1195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3373,
+                    "endColumn": 173,
+                    "endOffset": 3542
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1200,
+                        "endColumn": 177,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3547,
+                    "endColumn": 115,
+                    "endOffset": 3658
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 115,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3663,
+                    "endColumn": 130,
+                    "endOffset": 3789
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3098,
+                        "endColumn": 130,
+                        "endOffset": 3224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3794,
+                    "endColumn": 113,
+                    "endOffset": 3903
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2984,
+                        "endColumn": 113,
+                        "endOffset": 3093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3908,
+                    "endColumn": 131,
+                    "endOffset": 4035
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 131,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4040,
+                    "endColumn": 131,
+                    "endOffset": 4167
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2852,
+                        "endColumn": 131,
+                        "endOffset": 2979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4172,
+                    "endColumn": 110,
+                    "endOffset": 4278
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2741,
+                        "endColumn": 110,
+                        "endOffset": 2847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4283,
+                    "endColumn": 142,
+                    "endOffset": 4421
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 142,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4426,
+                    "endColumn": 124,
+                    "endOffset": 4546
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 124,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4551,
+                    "endColumn": 127,
+                    "endOffset": 4674
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 4366,
+                        "endColumn": 127,
+                        "endOffset": 4489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4679,
+                    "endColumn": 111,
+                    "endOffset": 4786
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4254,
+                        "endColumn": 111,
+                        "endOffset": 4361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4791,
+                    "endColumn": 121,
+                    "endOffset": 4908
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3229,
+                        "endColumn": 121,
+                        "endOffset": 3346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4913,
+                    "endColumn": 195,
+                    "endOffset": 5104
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3470,
+                        "endColumn": 199,
+                        "endOffset": 3665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5109,
+                    "endColumn": 118,
+                    "endOffset": 5223
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3351,
+                        "endColumn": 118,
+                        "endOffset": 3465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5228,
+                    "endColumn": 102,
+                    "endOffset": 5326
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3670,
+                        "endColumn": 102,
+                        "endOffset": 3768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5331,
+                    "endColumn": 159,
+                    "endOffset": 5486
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2119,
+                        "endColumn": 163,
+                        "endOffset": 2278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5491,
+                    "endColumn": 116,
+                    "endOffset": 5603
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1895,
+                        "endColumn": 116,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5608,
+                    "endColumn": 174,
+                    "endOffset": 5778
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2562,
+                        "endColumn": 178,
+                        "endOffset": 2736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5783,
+                    "endColumn": 119,
+                    "endOffset": 5898
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2442,
+                        "endColumn": 119,
+                        "endOffset": 2557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5903,
+                    "endColumn": 84,
+                    "endOffset": 5983
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3964,
+                        "endColumn": 84,
+                        "endOffset": 4044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5988,
+                    "endColumn": 86,
+                    "endOffset": 6070
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3773,
+                        "endColumn": 86,
+                        "endOffset": 3855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6075,
+                    "endColumn": 103,
+                    "endOffset": 6174
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3860,
+                        "endColumn": 103,
+                        "endOffset": 3959
+                    }
+                }
+            }
+        ]
+    }
+]
