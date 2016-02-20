@@ -3515,14 +3515,7 @@
                     "endOffset": 38233
                 },
                 "from": {
-                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 714,
-                        "endColumn": 43,
-                        "endOffset": 753
-                    }
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -3567,20 +3560,27 @@
                     "startLine": 332,
                     "startColumn": 4,
                     "startOffset": 38789,
-                    "endColumn": 77,
-                    "endOffset": 38862
+                    "endColumn": 37,
+                    "endOffset": 38822
                 },
                 "from": {
-                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 37,
+                        "endOffset": 791
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 38867,
-                    "endColumn": 89,
-                    "endOffset": 38952
+                    "startOffset": 38827,
+                    "endColumn": 77,
+                    "endOffset": 38900
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3590,9 +3590,9 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 38957,
-                    "endColumn": 87,
-                    "endOffset": 39040
+                    "startOffset": 38905,
+                    "endColumn": 89,
+                    "endOffset": 38990
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3602,9 +3602,9 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 39045,
-                    "endColumn": 95,
-                    "endOffset": 39136
+                    "startOffset": 38995,
+                    "endColumn": 87,
+                    "endOffset": 39078
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3614,36 +3614,9 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 39141,
-                    "endLine": 342,
-                    "endColumn": 12,
-                    "endOffset": 39439
-                },
-                "from": {
-                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 343,
-                    "startColumn": 4,
-                    "startOffset": 39444,
-                    "endLine": 345,
-                    "endColumn": 12,
-                    "endOffset": 39599
-                },
-                "from": {
-                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 346,
-                    "startColumn": 4,
-                    "startOffset": 39604,
-                    "endLine": 352,
-                    "endColumn": 12,
-                    "endOffset": 40100
+                    "startOffset": 39083,
+                    "endColumn": 95,
+                    "endOffset": 39174
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3651,11 +3624,38 @@
             },
             {
                 "to": {
-                    "startLine": 353,
+                    "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 40105,
-                    "endColumn": 88,
-                    "endOffset": 40189
+                    "startOffset": 39179,
+                    "endLine": 343,
+                    "endColumn": 12,
+                    "endOffset": 39477
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 39482,
+                    "endLine": 346,
+                    "endColumn": 12,
+                    "endOffset": 39637
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 39642,
+                    "endLine": 353,
+                    "endColumn": 12,
+                    "endOffset": 40138
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3665,10 +3665,9 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 40194,
-                    "endLine": 357,
-                    "endColumn": 12,
-                    "endOffset": 40436
+                    "startOffset": 40143,
+                    "endColumn": 88,
+                    "endOffset": 40227
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3676,12 +3675,12 @@
             },
             {
                 "to": {
-                    "startLine": 358,
+                    "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 40441,
-                    "endLine": 361,
+                    "startOffset": 40232,
+                    "endLine": 358,
                     "endColumn": 12,
-                    "endOffset": 40717
+                    "endOffset": 40474
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3689,12 +3688,12 @@
             },
             {
                 "to": {
-                    "startLine": 362,
+                    "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 40722,
-                    "endLine": 366,
+                    "startOffset": 40479,
+                    "endLine": 362,
                     "endColumn": 12,
-                    "endOffset": 41002
+                    "endOffset": 40755
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3702,12 +3701,12 @@
             },
             {
                 "to": {
-                    "startLine": 367,
+                    "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 41007,
-                    "endLine": 372,
+                    "startOffset": 40760,
+                    "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 41395
+                    "endOffset": 41040
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3715,12 +3714,12 @@
             },
             {
                 "to": {
-                    "startLine": 373,
+                    "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 41400,
-                    "endLine": 379,
+                    "startOffset": 41045,
+                    "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 41872
+                    "endOffset": 41433
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3728,12 +3727,12 @@
             },
             {
                 "to": {
-                    "startLine": 380,
+                    "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 41877,
-                    "endLine": 383,
+                    "startOffset": 41438,
+                    "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 42094
+                    "endOffset": 41910
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3741,12 +3740,12 @@
             },
             {
                 "to": {
-                    "startLine": 384,
+                    "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 42099,
-                    "endLine": 387,
+                    "startOffset": 41915,
+                    "endLine": 384,
                     "endColumn": 12,
-                    "endOffset": 42316
+                    "endOffset": 42132
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3754,12 +3753,12 @@
             },
             {
                 "to": {
-                    "startLine": 388,
+                    "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 42321,
-                    "endLine": 392,
+                    "startOffset": 42137,
+                    "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 42584
+                    "endOffset": 42354
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3767,12 +3766,12 @@
             },
             {
                 "to": {
-                    "startLine": 393,
+                    "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 42589,
-                    "endLine": 396,
+                    "startOffset": 42359,
+                    "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 42811
+                    "endOffset": 42622
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3780,12 +3779,12 @@
             },
             {
                 "to": {
-                    "startLine": 397,
+                    "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 42816,
-                    "endLine": 400,
+                    "startOffset": 42627,
+                    "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 43041
+                    "endOffset": 42849
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3793,12 +3792,12 @@
             },
             {
                 "to": {
-                    "startLine": 401,
+                    "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 43046,
-                    "endLine": 404,
+                    "startOffset": 42854,
+                    "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 43271
+                    "endOffset": 43079
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3806,12 +3805,12 @@
             },
             {
                 "to": {
-                    "startLine": 405,
+                    "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 43276,
-                    "endLine": 408,
+                    "startOffset": 43084,
+                    "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 43501
+                    "endOffset": 43309
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3819,12 +3818,12 @@
             },
             {
                 "to": {
-                    "startLine": 409,
+                    "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 43506,
-                    "endLine": 412,
+                    "startOffset": 43314,
+                    "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 43731
+                    "endOffset": 43539
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3832,12 +3831,12 @@
             },
             {
                 "to": {
-                    "startLine": 413,
+                    "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 43736,
-                    "endLine": 416,
+                    "startOffset": 43544,
+                    "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 43958
+                    "endOffset": 43769
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3845,12 +3844,12 @@
             },
             {
                 "to": {
-                    "startLine": 417,
+                    "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 43963,
-                    "endLine": 420,
+                    "startOffset": 43774,
+                    "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 44197
+                    "endOffset": 43996
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3858,12 +3857,12 @@
             },
             {
                 "to": {
-                    "startLine": 421,
+                    "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 44202,
-                    "endLine": 424,
+                    "startOffset": 44001,
+                    "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 44423
+                    "endOffset": 44235
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3871,12 +3870,12 @@
             },
             {
                 "to": {
-                    "startLine": 425,
+                    "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 44428,
-                    "endLine": 428,
+                    "startOffset": 44240,
+                    "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 44668
+                    "endOffset": 44461
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3884,12 +3883,12 @@
             },
             {
                 "to": {
-                    "startLine": 429,
+                    "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 44673,
-                    "endLine": 430,
+                    "startOffset": 44466,
+                    "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 44798
+                    "endOffset": 44706
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3897,12 +3896,12 @@
             },
             {
                 "to": {
-                    "startLine": 431,
+                    "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 44803,
-                    "endLine": 432,
+                    "startOffset": 44711,
+                    "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 44928
+                    "endOffset": 44836
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3910,12 +3909,12 @@
             },
             {
                 "to": {
-                    "startLine": 433,
+                    "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 44933,
-                    "endLine": 436,
+                    "startOffset": 44841,
+                    "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 45158
+                    "endOffset": 44966
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3923,12 +3922,12 @@
             },
             {
                 "to": {
-                    "startLine": 437,
+                    "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 45163,
-                    "endLine": 440,
+                    "startOffset": 44971,
+                    "endLine": 437,
                     "endColumn": 12,
-                    "endOffset": 45406
+                    "endOffset": 45196
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3936,12 +3935,12 @@
             },
             {
                 "to": {
-                    "startLine": 441,
+                    "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 45411,
-                    "endLine": 444,
+                    "startOffset": 45201,
+                    "endLine": 441,
                     "endColumn": 12,
-                    "endOffset": 45625
+                    "endOffset": 45444
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3949,12 +3948,12 @@
             },
             {
                 "to": {
-                    "startLine": 445,
+                    "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 45630,
-                    "endLine": 449,
+                    "startOffset": 45449,
+                    "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 45908
+                    "endOffset": 45663
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3962,12 +3961,12 @@
             },
             {
                 "to": {
-                    "startLine": 450,
+                    "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 45913,
-                    "endLine": 453,
+                    "startOffset": 45668,
+                    "endLine": 450,
                     "endColumn": 12,
-                    "endOffset": 46116
+                    "endOffset": 45946
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3975,12 +3974,12 @@
             },
             {
                 "to": {
-                    "startLine": 454,
+                    "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 46121,
-                    "endLine": 456,
+                    "startOffset": 45951,
+                    "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 46247
+                    "endOffset": 46154
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -3988,12 +3987,12 @@
             },
             {
                 "to": {
-                    "startLine": 457,
+                    "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 46252,
-                    "endLine": 460,
+                    "startOffset": 46159,
+                    "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 46474
+                    "endOffset": 46285
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4001,12 +4000,12 @@
             },
             {
                 "to": {
-                    "startLine": 461,
+                    "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 46479,
-                    "endLine": 464,
+                    "startOffset": 46290,
+                    "endLine": 461,
                     "endColumn": 12,
-                    "endOffset": 46720
+                    "endOffset": 46512
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4014,12 +4013,12 @@
             },
             {
                 "to": {
-                    "startLine": 465,
+                    "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 46725,
-                    "endLine": 468,
+                    "startOffset": 46517,
+                    "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 46945
+                    "endOffset": 46758
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4027,12 +4026,12 @@
             },
             {
                 "to": {
-                    "startLine": 469,
+                    "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 46950,
-                    "endLine": 472,
+                    "startOffset": 46763,
+                    "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 47194
+                    "endOffset": 46983
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4040,12 +4039,12 @@
             },
             {
                 "to": {
-                    "startLine": 473,
+                    "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 47199,
-                    "endLine": 476,
+                    "startOffset": 46988,
+                    "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 47415
+                    "endOffset": 47232
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4053,12 +4052,12 @@
             },
             {
                 "to": {
-                    "startLine": 477,
+                    "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 47420,
-                    "endLine": 480,
+                    "startOffset": 47237,
+                    "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 47660
+                    "endOffset": 47453
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4066,12 +4065,12 @@
             },
             {
                 "to": {
-                    "startLine": 481,
+                    "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 47665,
-                    "endLine": 485,
+                    "startOffset": 47458,
+                    "endLine": 481,
                     "endColumn": 12,
-                    "endOffset": 47955
+                    "endOffset": 47698
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4079,12 +4078,12 @@
             },
             {
                 "to": {
-                    "startLine": 486,
+                    "startLine": 482,
                     "startColumn": 4,
-                    "startOffset": 47960,
-                    "endLine": 488,
+                    "startOffset": 47703,
+                    "endLine": 486,
                     "endColumn": 12,
-                    "endOffset": 48177
+                    "endOffset": 47993
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4092,12 +4091,12 @@
             },
             {
                 "to": {
-                    "startLine": 489,
+                    "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 48182,
-                    "endLine": 491,
+                    "startOffset": 47998,
+                    "endLine": 489,
                     "endColumn": 12,
-                    "endOffset": 48415
+                    "endOffset": 48215
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4105,12 +4104,12 @@
             },
             {
                 "to": {
-                    "startLine": 492,
+                    "startLine": 490,
                     "startColumn": 4,
-                    "startOffset": 48420,
-                    "endLine": 494,
+                    "startOffset": 48220,
+                    "endLine": 492,
                     "endColumn": 12,
-                    "endOffset": 48629
+                    "endOffset": 48453
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4118,12 +4117,12 @@
             },
             {
                 "to": {
-                    "startLine": 495,
+                    "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 48634,
-                    "endLine": 497,
+                    "startOffset": 48458,
+                    "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 48859
+                    "endOffset": 48667
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4131,12 +4130,12 @@
             },
             {
                 "to": {
-                    "startLine": 498,
+                    "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 48864,
-                    "endLine": 500,
+                    "startOffset": 48672,
+                    "endLine": 498,
                     "endColumn": 12,
-                    "endOffset": 49082
+                    "endOffset": 48897
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4144,12 +4143,12 @@
             },
             {
                 "to": {
-                    "startLine": 501,
+                    "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 49087,
-                    "endLine": 503,
+                    "startOffset": 48902,
+                    "endLine": 501,
                     "endColumn": 12,
-                    "endOffset": 49297
+                    "endOffset": 49120
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4157,12 +4156,12 @@
             },
             {
                 "to": {
-                    "startLine": 504,
+                    "startLine": 502,
                     "startColumn": 4,
-                    "startOffset": 49302,
-                    "endLine": 506,
+                    "startOffset": 49125,
+                    "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 49505
+                    "endOffset": 49335
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4170,12 +4169,12 @@
             },
             {
                 "to": {
-                    "startLine": 507,
+                    "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 49510,
-                    "endLine": 508,
+                    "startOffset": 49340,
+                    "endLine": 507,
                     "endColumn": 12,
-                    "endOffset": 49629
+                    "endOffset": 49543
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4183,12 +4182,12 @@
             },
             {
                 "to": {
-                    "startLine": 509,
+                    "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 49634,
-                    "endLine": 510,
+                    "startOffset": 49548,
+                    "endLine": 509,
                     "endColumn": 12,
-                    "endOffset": 49753
+                    "endOffset": 49667
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4196,11 +4195,12 @@
             },
             {
                 "to": {
-                    "startLine": 511,
+                    "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 49758,
-                    "endColumn": 104,
-                    "endOffset": 49858
+                    "startOffset": 49672,
+                    "endLine": 511,
+                    "endColumn": 12,
+                    "endOffset": 49791
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4210,9 +4210,9 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 49863,
-                    "endColumn": 116,
-                    "endOffset": 49975
+                    "startOffset": 49796,
+                    "endColumn": 104,
+                    "endOffset": 49896
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4222,10 +4222,9 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 49980,
-                    "endLine": 515,
-                    "endColumn": 12,
-                    "endOffset": 50189
+                    "startOffset": 49901,
+                    "endColumn": 116,
+                    "endOffset": 50013
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4233,12 +4232,12 @@
             },
             {
                 "to": {
-                    "startLine": 516,
+                    "startLine": 514,
                     "startColumn": 4,
-                    "startOffset": 50194,
-                    "endLine": 517,
+                    "startOffset": 50018,
+                    "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 50335
+                    "endOffset": 50227
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4246,12 +4245,12 @@
             },
             {
                 "to": {
-                    "startLine": 518,
+                    "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 50340,
-                    "endLine": 519,
+                    "startOffset": 50232,
+                    "endLine": 518,
                     "endColumn": 12,
-                    "endOffset": 50475
+                    "endOffset": 50373
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4259,12 +4258,12 @@
             },
             {
                 "to": {
-                    "startLine": 520,
+                    "startLine": 519,
                     "startColumn": 4,
-                    "startOffset": 50480,
-                    "endLine": 521,
+                    "startOffset": 50378,
+                    "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 50561
+                    "endOffset": 50513
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4272,12 +4271,12 @@
             },
             {
                 "to": {
-                    "startLine": 522,
+                    "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 50566,
-                    "endLine": 526,
+                    "startOffset": 50518,
+                    "endLine": 522,
                     "endColumn": 12,
-                    "endOffset": 50909
+                    "endOffset": 50599
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4285,11 +4284,12 @@
             },
             {
                 "to": {
-                    "startLine": 527,
+                    "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 50914,
-                    "endColumn": 87,
-                    "endOffset": 50997
+                    "startOffset": 50604,
+                    "endLine": 527,
+                    "endColumn": 12,
+                    "endOffset": 50947
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4299,10 +4299,9 @@
                 "to": {
                     "startLine": 528,
                     "startColumn": 4,
-                    "startOffset": 51002,
-                    "endLine": 531,
-                    "endColumn": 12,
-                    "endOffset": 51227
+                    "startOffset": 50952,
+                    "endColumn": 87,
+                    "endOffset": 51035
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4310,12 +4309,12 @@
             },
             {
                 "to": {
-                    "startLine": 532,
+                    "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 51232,
-                    "endLine": 537,
+                    "startOffset": 51040,
+                    "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 51629
+                    "endOffset": 51265
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4323,12 +4322,12 @@
             },
             {
                 "to": {
-                    "startLine": 538,
+                    "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 51634,
-                    "endLine": 541,
+                    "startOffset": 51270,
+                    "endLine": 538,
                     "endColumn": 12,
-                    "endOffset": 51862
+                    "endOffset": 51667
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4336,11 +4335,12 @@
             },
             {
                 "to": {
-                    "startLine": 542,
+                    "startLine": 539,
                     "startColumn": 4,
-                    "startOffset": 51867,
-                    "endColumn": 81,
-                    "endOffset": 51944
+                    "startOffset": 51672,
+                    "endLine": 542,
+                    "endColumn": 12,
+                    "endOffset": 51900
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4350,10 +4350,9 @@
                 "to": {
                     "startLine": 543,
                     "startColumn": 4,
-                    "startOffset": 51949,
-                    "endLine": 544,
-                    "endColumn": 12,
-                    "endOffset": 52042
+                    "startOffset": 51905,
+                    "endColumn": 81,
+                    "endOffset": 51982
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4361,12 +4360,12 @@
             },
             {
                 "to": {
-                    "startLine": 545,
+                    "startLine": 544,
                     "startColumn": 4,
-                    "startOffset": 52047,
-                    "endLine": 555,
+                    "startOffset": 51987,
+                    "endLine": 545,
                     "endColumn": 12,
-                    "endOffset": 52659
+                    "endOffset": 52080
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4374,11 +4373,12 @@
             },
             {
                 "to": {
-                    "startLine": 556,
+                    "startLine": 546,
                     "startColumn": 4,
-                    "startOffset": 52664,
-                    "endColumn": 99,
-                    "endOffset": 52759
+                    "startOffset": 52085,
+                    "endLine": 556,
+                    "endColumn": 12,
+                    "endOffset": 52697
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4388,10 +4388,9 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 52764,
-                    "endLine": 560,
-                    "endColumn": 12,
-                    "endOffset": 52995
+                    "startOffset": 52702,
+                    "endColumn": 99,
+                    "endOffset": 52797
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4399,12 +4398,12 @@
             },
             {
                 "to": {
-                    "startLine": 561,
+                    "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 53000,
-                    "endLine": 566,
+                    "startOffset": 52802,
+                    "endLine": 561,
                     "endColumn": 12,
-                    "endOffset": 53403
+                    "endOffset": 53033
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4412,12 +4411,12 @@
             },
             {
                 "to": {
-                    "startLine": 567,
+                    "startLine": 562,
                     "startColumn": 4,
-                    "startOffset": 53408,
-                    "endLine": 570,
+                    "startOffset": 53038,
+                    "endLine": 567,
                     "endColumn": 12,
-                    "endOffset": 53642
+                    "endOffset": 53441
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4425,11 +4424,12 @@
             },
             {
                 "to": {
-                    "startLine": 571,
+                    "startLine": 568,
                     "startColumn": 4,
-                    "startOffset": 53647,
-                    "endColumn": 93,
-                    "endOffset": 53736
+                    "startOffset": 53446,
+                    "endLine": 571,
+                    "endColumn": 12,
+                    "endOffset": 53680
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4439,9 +4439,9 @@
                 "to": {
                     "startLine": 572,
                     "startColumn": 4,
-                    "startOffset": 53741,
-                    "endColumn": 57,
-                    "endOffset": 53794
+                    "startOffset": 53685,
+                    "endColumn": 93,
+                    "endOffset": 53774
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4451,10 +4451,9 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 53799,
-                    "endLine": 576,
-                    "endColumn": 12,
-                    "endOffset": 54031
+                    "startOffset": 53779,
+                    "endColumn": 57,
+                    "endOffset": 53832
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4462,12 +4461,12 @@
             },
             {
                 "to": {
-                    "startLine": 577,
+                    "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 54036,
-                    "endLine": 603,
+                    "startOffset": 53837,
+                    "endLine": 577,
                     "endColumn": 12,
-                    "endOffset": 56031
+                    "endOffset": 54069
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4475,12 +4474,12 @@
             },
             {
                 "to": {
-                    "startLine": 604,
+                    "startLine": 578,
                     "startColumn": 4,
-                    "startOffset": 56036,
-                    "endLine": 607,
+                    "startOffset": 54074,
+                    "endLine": 604,
                     "endColumn": 12,
-                    "endOffset": 56273
+                    "endOffset": 56069
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4488,12 +4487,12 @@
             },
             {
                 "to": {
-                    "startLine": 608,
+                    "startLine": 605,
                     "startColumn": 4,
-                    "startOffset": 56278,
-                    "endLine": 635,
+                    "startOffset": 56074,
+                    "endLine": 608,
                     "endColumn": 12,
-                    "endOffset": 58451
+                    "endOffset": 56311
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4501,12 +4500,12 @@
             },
             {
                 "to": {
-                    "startLine": 636,
+                    "startLine": 609,
                     "startColumn": 4,
-                    "startOffset": 58456,
-                    "endLine": 781,
+                    "startOffset": 56316,
+                    "endLine": 636,
                     "endColumn": 12,
-                    "endOffset": 67730
+                    "endOffset": 58489
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4514,12 +4513,12 @@
             },
             {
                 "to": {
-                    "startLine": 782,
+                    "startLine": 637,
                     "startColumn": 4,
-                    "startOffset": 67735,
-                    "endLine": 803,
+                    "startOffset": 58494,
+                    "endLine": 782,
                     "endColumn": 12,
-                    "endOffset": 68997
+                    "endOffset": 67768
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4527,12 +4526,12 @@
             },
             {
                 "to": {
-                    "startLine": 804,
+                    "startLine": 783,
                     "startColumn": 4,
-                    "startOffset": 69002,
-                    "endLine": 949,
+                    "startOffset": 67773,
+                    "endLine": 804,
                     "endColumn": 12,
-                    "endOffset": 78386
+                    "endOffset": 69035
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4540,12 +4539,12 @@
             },
             {
                 "to": {
-                    "startLine": 950,
+                    "startLine": 805,
                     "startColumn": 4,
-                    "startOffset": 78391,
-                    "endLine": 971,
+                    "startOffset": 69040,
+                    "endLine": 950,
                     "endColumn": 12,
-                    "endOffset": 79667
+                    "endOffset": 78424
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4553,12 +4552,12 @@
             },
             {
                 "to": {
-                    "startLine": 972,
+                    "startLine": 951,
                     "startColumn": 4,
-                    "startOffset": 79672,
-                    "endLine": 978,
+                    "startOffset": 78429,
+                    "endLine": 972,
                     "endColumn": 12,
-                    "endOffset": 80203
+                    "endOffset": 79705
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4566,12 +4565,12 @@
             },
             {
                 "to": {
-                    "startLine": 979,
+                    "startLine": 973,
                     "startColumn": 4,
-                    "startOffset": 80208,
-                    "endLine": 983,
+                    "startOffset": 79710,
+                    "endLine": 979,
                     "endColumn": 12,
-                    "endOffset": 80533
+                    "endOffset": 80241
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4579,12 +4578,12 @@
             },
             {
                 "to": {
-                    "startLine": 984,
+                    "startLine": 980,
                     "startColumn": 4,
-                    "startOffset": 80538,
-                    "endLine": 1004,
+                    "startOffset": 80246,
+                    "endLine": 984,
                     "endColumn": 12,
-                    "endOffset": 81656
+                    "endOffset": 80571
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4592,12 +4591,12 @@
             },
             {
                 "to": {
-                    "startLine": 1005,
+                    "startLine": 985,
                     "startColumn": 4,
-                    "startOffset": 81661,
-                    "endLine": 1009,
+                    "startOffset": 80576,
+                    "endLine": 1005,
                     "endColumn": 12,
-                    "endOffset": 81912
+                    "endOffset": 81694
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4605,12 +4604,12 @@
             },
             {
                 "to": {
-                    "startLine": 1010,
+                    "startLine": 1006,
                     "startColumn": 4,
-                    "startOffset": 81917,
-                    "endLine": 1014,
+                    "startOffset": 81699,
+                    "endLine": 1010,
                     "endColumn": 12,
-                    "endOffset": 82148
+                    "endOffset": 81950
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4618,12 +4617,12 @@
             },
             {
                 "to": {
-                    "startLine": 1015,
+                    "startLine": 1011,
                     "startColumn": 4,
-                    "startOffset": 82153,
-                    "endLine": 1024,
+                    "startOffset": 81955,
+                    "endLine": 1015,
                     "endColumn": 12,
-                    "endOffset": 82695
+                    "endOffset": 82186
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4631,12 +4630,12 @@
             },
             {
                 "to": {
-                    "startLine": 1025,
+                    "startLine": 1016,
                     "startColumn": 4,
-                    "startOffset": 82700,
-                    "endLine": 1033,
+                    "startOffset": 82191,
+                    "endLine": 1025,
                     "endColumn": 12,
-                    "endOffset": 83189
+                    "endOffset": 82733
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4644,12 +4643,12 @@
             },
             {
                 "to": {
-                    "startLine": 1034,
+                    "startLine": 1026,
                     "startColumn": 4,
-                    "startOffset": 83194,
-                    "endLine": 1044,
+                    "startOffset": 82738,
+                    "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 83862
+                    "endOffset": 83227
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4657,12 +4656,12 @@
             },
             {
                 "to": {
-                    "startLine": 1045,
+                    "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 83867,
-                    "endLine": 1048,
+                    "startOffset": 83232,
+                    "endLine": 1045,
                     "endColumn": 12,
-                    "endOffset": 84077
+                    "endOffset": 83900
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4670,12 +4669,12 @@
             },
             {
                 "to": {
-                    "startLine": 1049,
+                    "startLine": 1046,
                     "startColumn": 4,
-                    "startOffset": 84082,
-                    "endLine": 1055,
+                    "startOffset": 83905,
+                    "endLine": 1049,
                     "endColumn": 12,
-                    "endOffset": 84605
+                    "endOffset": 84115
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4683,12 +4682,12 @@
             },
             {
                 "to": {
-                    "startLine": 1056,
+                    "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 84610,
-                    "endLine": 1063,
+                    "startOffset": 84120,
+                    "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 85169
+                    "endOffset": 84643
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4696,12 +4695,12 @@
             },
             {
                 "to": {
-                    "startLine": 1064,
+                    "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 85174,
-                    "endLine": 1070,
+                    "startOffset": 84648,
+                    "endLine": 1064,
                     "endColumn": 12,
-                    "endOffset": 85544
+                    "endOffset": 85207
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4709,11 +4708,12 @@
             },
             {
                 "to": {
-                    "startLine": 1071,
+                    "startLine": 1065,
                     "startColumn": 4,
-                    "startOffset": 85549,
-                    "endColumn": 117,
-                    "endOffset": 85662
+                    "startOffset": 85212,
+                    "endLine": 1071,
+                    "endColumn": 12,
+                    "endOffset": 85582
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4723,10 +4723,9 @@
                 "to": {
                     "startLine": 1072,
                     "startColumn": 4,
-                    "startOffset": 85667,
-                    "endLine": 1080,
-                    "endColumn": 12,
-                    "endOffset": 86200
+                    "startOffset": 85587,
+                    "endColumn": 117,
+                    "endOffset": 85700
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4734,12 +4733,12 @@
             },
             {
                 "to": {
-                    "startLine": 1081,
+                    "startLine": 1073,
                     "startColumn": 4,
-                    "startOffset": 86205,
-                    "endLine": 1083,
+                    "startOffset": 85705,
+                    "endLine": 1081,
                     "endColumn": 12,
-                    "endOffset": 86357
+                    "endOffset": 86238
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4747,12 +4746,12 @@
             },
             {
                 "to": {
-                    "startLine": 1084,
+                    "startLine": 1082,
                     "startColumn": 4,
-                    "startOffset": 86362,
-                    "endLine": 1086,
+                    "startOffset": 86243,
+                    "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 86501
+                    "endOffset": 86395
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4760,12 +4759,12 @@
             },
             {
                 "to": {
-                    "startLine": 1087,
+                    "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 86506,
-                    "endLine": 1091,
+                    "startOffset": 86400,
+                    "endLine": 1087,
                     "endColumn": 12,
-                    "endOffset": 86821
+                    "endOffset": 86539
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4773,12 +4772,12 @@
             },
             {
                 "to": {
-                    "startLine": 1092,
+                    "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 86826,
-                    "endLine": 1095,
+                    "startOffset": 86544,
+                    "endLine": 1092,
                     "endColumn": 12,
-                    "endOffset": 86991
+                    "endOffset": 86859
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4786,12 +4785,12 @@
             },
             {
                 "to": {
-                    "startLine": 1096,
+                    "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 86996,
-                    "endLine": 1098,
+                    "startOffset": 86864,
+                    "endLine": 1096,
                     "endColumn": 12,
-                    "endOffset": 87132
+                    "endOffset": 87029
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4799,12 +4798,12 @@
             },
             {
                 "to": {
-                    "startLine": 1099,
+                    "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 87137,
-                    "endLine": 1101,
+                    "startOffset": 87034,
+                    "endLine": 1099,
                     "endColumn": 12,
-                    "endOffset": 87261
+                    "endOffset": 87170
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4812,12 +4811,12 @@
             },
             {
                 "to": {
-                    "startLine": 1102,
+                    "startLine": 1100,
                     "startColumn": 4,
-                    "startOffset": 87266,
-                    "endLine": 1105,
+                    "startOffset": 87175,
+                    "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 87560
+                    "endOffset": 87299
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4825,12 +4824,12 @@
             },
             {
                 "to": {
-                    "startLine": 1106,
+                    "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 87565,
-                    "endLine": 1109,
+                    "startOffset": 87304,
+                    "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 87863
+                    "endOffset": 87598
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4838,12 +4837,12 @@
             },
             {
                 "to": {
-                    "startLine": 1110,
+                    "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 87868,
-                    "endLine": 1117,
+                    "startOffset": 87603,
+                    "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 88422
+                    "endOffset": 87901
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4851,12 +4850,12 @@
             },
             {
                 "to": {
-                    "startLine": 1118,
+                    "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 88427,
-                    "endLine": 1122,
+                    "startOffset": 87906,
+                    "endLine": 1118,
                     "endColumn": 12,
-                    "endOffset": 88684
+                    "endOffset": 88460
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4864,12 +4863,12 @@
             },
             {
                 "to": {
-                    "startLine": 1123,
+                    "startLine": 1119,
                     "startColumn": 4,
-                    "startOffset": 88689,
-                    "endLine": 1129,
+                    "startOffset": 88465,
+                    "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 89034
+                    "endOffset": 88722
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4877,12 +4876,12 @@
             },
             {
                 "to": {
-                    "startLine": 1130,
+                    "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 89039,
-                    "endLine": 1135,
+                    "startOffset": 88727,
+                    "endLine": 1130,
                     "endColumn": 12,
-                    "endOffset": 89387
+                    "endOffset": 89072
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4890,11 +4889,12 @@
             },
             {
                 "to": {
-                    "startLine": 1136,
+                    "startLine": 1131,
                     "startColumn": 4,
-                    "startOffset": 89392,
-                    "endColumn": 93,
-                    "endOffset": 89481
+                    "startOffset": 89077,
+                    "endLine": 1136,
+                    "endColumn": 12,
+                    "endOffset": 89425
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4904,10 +4904,9 @@
                 "to": {
                     "startLine": 1137,
                     "startColumn": 4,
-                    "startOffset": 89486,
-                    "endLine": 1140,
-                    "endColumn": 12,
-                    "endOffset": 89787
+                    "startOffset": 89430,
+                    "endColumn": 93,
+                    "endOffset": 89519
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4915,12 +4914,12 @@
             },
             {
                 "to": {
-                    "startLine": 1141,
+                    "startLine": 1138,
                     "startColumn": 4,
-                    "startOffset": 89792,
-                    "endLine": 1145,
+                    "startOffset": 89524,
+                    "endLine": 1141,
                     "endColumn": 12,
-                    "endOffset": 90049
+                    "endOffset": 89825
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4928,12 +4927,12 @@
             },
             {
                 "to": {
-                    "startLine": 1146,
+                    "startLine": 1142,
                     "startColumn": 4,
-                    "startOffset": 90054,
-                    "endLine": 1147,
+                    "startOffset": 89830,
+                    "endLine": 1146,
                     "endColumn": 12,
-                    "endOffset": 90174
+                    "endOffset": 90087
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4941,12 +4940,12 @@
             },
             {
                 "to": {
-                    "startLine": 1148,
+                    "startLine": 1147,
                     "startColumn": 4,
-                    "startOffset": 90179,
-                    "endLine": 1149,
+                    "startOffset": 90092,
+                    "endLine": 1148,
                     "endColumn": 12,
-                    "endOffset": 90301
+                    "endOffset": 90212
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4954,12 +4953,12 @@
             },
             {
                 "to": {
-                    "startLine": 1150,
+                    "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 90306,
-                    "endLine": 1152,
+                    "startOffset": 90217,
+                    "endLine": 1150,
                     "endColumn": 12,
-                    "endOffset": 90540
+                    "endOffset": 90339
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4967,12 +4966,12 @@
             },
             {
                 "to": {
-                    "startLine": 1153,
+                    "startLine": 1151,
                     "startColumn": 4,
-                    "startOffset": 90545,
-                    "endLine": 1155,
+                    "startOffset": 90344,
+                    "endLine": 1153,
                     "endColumn": 12,
-                    "endOffset": 90751
+                    "endOffset": 90578
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4980,12 +4979,12 @@
             },
             {
                 "to": {
-                    "startLine": 1156,
+                    "startLine": 1154,
                     "startColumn": 4,
-                    "startOffset": 90756,
-                    "endLine": 1157,
+                    "startOffset": 90583,
+                    "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 90870
+                    "endOffset": 90789
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -4993,12 +4992,12 @@
             },
             {
                 "to": {
-                    "startLine": 1158,
+                    "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 90875,
-                    "endLine": 1161,
+                    "startOffset": 90794,
+                    "endLine": 1158,
                     "endColumn": 12,
-                    "endOffset": 91063
+                    "endOffset": 90908
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5006,12 +5005,12 @@
             },
             {
                 "to": {
-                    "startLine": 1162,
+                    "startLine": 1159,
                     "startColumn": 4,
-                    "startOffset": 91068,
-                    "endLine": 1168,
+                    "startOffset": 90913,
+                    "endLine": 1162,
                     "endColumn": 12,
-                    "endOffset": 91518
+                    "endOffset": 91101
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5019,12 +5018,12 @@
             },
             {
                 "to": {
-                    "startLine": 1169,
+                    "startLine": 1163,
                     "startColumn": 4,
-                    "startOffset": 91523,
-                    "endLine": 1171,
+                    "startOffset": 91106,
+                    "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 91699
+                    "endOffset": 91556
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5032,12 +5031,12 @@
             },
             {
                 "to": {
-                    "startLine": 1172,
+                    "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 91704,
-                    "endLine": 1174,
+                    "startOffset": 91561,
+                    "endLine": 1172,
                     "endColumn": 12,
-                    "endOffset": 91821
+                    "endOffset": 91737
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5045,12 +5044,12 @@
             },
             {
                 "to": {
-                    "startLine": 1175,
+                    "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 91826,
-                    "endLine": 1178,
+                    "startOffset": 91742,
+                    "endLine": 1175,
                     "endColumn": 12,
-                    "endOffset": 92080
+                    "endOffset": 91859
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5058,12 +5057,12 @@
             },
             {
                 "to": {
-                    "startLine": 1179,
+                    "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 92085,
-                    "endLine": 1180,
+                    "startOffset": 91864,
+                    "endLine": 1179,
                     "endColumn": 12,
-                    "endOffset": 92193
+                    "endOffset": 92118
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5071,12 +5070,12 @@
             },
             {
                 "to": {
-                    "startLine": 1181,
+                    "startLine": 1180,
                     "startColumn": 4,
-                    "startOffset": 92198,
-                    "endLine": 1184,
+                    "startOffset": 92123,
+                    "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 92380
+                    "endOffset": 92231
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5084,12 +5083,12 @@
             },
             {
                 "to": {
-                    "startLine": 1185,
+                    "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 92385,
-                    "endLine": 1186,
+                    "startOffset": 92236,
+                    "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 92482
+                    "endOffset": 92418
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5097,12 +5096,12 @@
             },
             {
                 "to": {
-                    "startLine": 1187,
+                    "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 92487,
-                    "endLine": 1192,
+                    "startOffset": 92423,
+                    "endLine": 1187,
                     "endColumn": 12,
-                    "endOffset": 92926
+                    "endOffset": 92520
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5110,12 +5109,12 @@
             },
             {
                 "to": {
-                    "startLine": 1193,
+                    "startLine": 1188,
                     "startColumn": 4,
-                    "startOffset": 92931,
-                    "endLine": 1194,
+                    "startOffset": 92525,
+                    "endLine": 1193,
                     "endColumn": 12,
-                    "endOffset": 93050
+                    "endOffset": 92964
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5123,12 +5122,12 @@
             },
             {
                 "to": {
-                    "startLine": 1195,
+                    "startLine": 1194,
                     "startColumn": 4,
-                    "startOffset": 93055,
-                    "endLine": 1198,
+                    "startOffset": 92969,
+                    "endLine": 1195,
                     "endColumn": 12,
-                    "endOffset": 93335
+                    "endOffset": 93088
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5136,12 +5135,12 @@
             },
             {
                 "to": {
-                    "startLine": 1199,
+                    "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 93340,
-                    "endLine": 1210,
+                    "startOffset": 93093,
+                    "endLine": 1199,
                     "endColumn": 12,
-                    "endOffset": 94222
+                    "endOffset": 93373
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5149,12 +5148,12 @@
             },
             {
                 "to": {
-                    "startLine": 1211,
+                    "startLine": 1200,
                     "startColumn": 4,
-                    "startOffset": 94227,
-                    "endLine": 1216,
+                    "startOffset": 93378,
+                    "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 94516
+                    "endOffset": 94260
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5162,12 +5161,12 @@
             },
             {
                 "to": {
-                    "startLine": 1217,
+                    "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 94521,
-                    "endLine": 1221,
+                    "startOffset": 94265,
+                    "endLine": 1217,
                     "endColumn": 12,
-                    "endOffset": 94846
+                    "endOffset": 94554
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5175,12 +5174,12 @@
             },
             {
                 "to": {
-                    "startLine": 1222,
+                    "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 94851,
-                    "endLine": 1236,
+                    "startOffset": 94559,
+                    "endLine": 1222,
                     "endColumn": 12,
-                    "endOffset": 95766
+                    "endOffset": 94884
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5188,12 +5187,12 @@
             },
             {
                 "to": {
-                    "startLine": 1237,
+                    "startLine": 1223,
                     "startColumn": 4,
-                    "startOffset": 95771,
-                    "endLine": 1239,
+                    "startOffset": 94889,
+                    "endLine": 1237,
                     "endColumn": 12,
-                    "endOffset": 95938
+                    "endOffset": 95804
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5201,12 +5200,12 @@
             },
             {
                 "to": {
-                    "startLine": 1240,
+                    "startLine": 1238,
                     "startColumn": 4,
-                    "startOffset": 95943,
-                    "endLine": 1244,
+                    "startOffset": 95809,
+                    "endLine": 1240,
                     "endColumn": 12,
-                    "endOffset": 96274
+                    "endOffset": 95976
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5214,12 +5213,12 @@
             },
             {
                 "to": {
-                    "startLine": 1245,
+                    "startLine": 1241,
                     "startColumn": 4,
-                    "startOffset": 96279,
-                    "endLine": 1254,
+                    "startOffset": 95981,
+                    "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 96940
+                    "endOffset": 96312
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5227,12 +5226,12 @@
             },
             {
                 "to": {
-                    "startLine": 1255,
+                    "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 96945,
-                    "endLine": 1259,
+                    "startOffset": 96317,
+                    "endLine": 1255,
                     "endColumn": 12,
-                    "endOffset": 97225
+                    "endOffset": 96978
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5240,12 +5239,12 @@
             },
             {
                 "to": {
-                    "startLine": 1260,
+                    "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 97230,
-                    "endLine": 1297,
+                    "startOffset": 96983,
+                    "endLine": 1260,
                     "endColumn": 12,
-                    "endOffset": 100114
+                    "endOffset": 97263
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5253,12 +5252,12 @@
             },
             {
                 "to": {
-                    "startLine": 1298,
+                    "startLine": 1261,
                     "startColumn": 4,
-                    "startOffset": 100119,
-                    "endLine": 1336,
+                    "startOffset": 97268,
+                    "endLine": 1298,
                     "endColumn": 12,
-                    "endOffset": 103144
+                    "endOffset": 100152
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5266,12 +5265,12 @@
             },
             {
                 "to": {
-                    "startLine": 1337,
+                    "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 103149,
-                    "endLine": 1346,
+                    "startOffset": 100157,
+                    "endLine": 1337,
                     "endColumn": 12,
-                    "endOffset": 103784
+                    "endOffset": 103182
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5279,12 +5278,12 @@
             },
             {
                 "to": {
-                    "startLine": 1347,
+                    "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 103789,
-                    "endLine": 1355,
+                    "startOffset": 103187,
+                    "endLine": 1347,
                     "endColumn": 12,
-                    "endOffset": 104408
+                    "endOffset": 103822
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5292,12 +5291,12 @@
             },
             {
                 "to": {
-                    "startLine": 1356,
+                    "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 104413,
-                    "endLine": 1357,
+                    "startOffset": 103827,
+                    "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 104521
+                    "endOffset": 104446
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5305,12 +5304,12 @@
             },
             {
                 "to": {
-                    "startLine": 1358,
+                    "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 104526,
-                    "endLine": 1361,
+                    "startOffset": 104451,
+                    "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 104750
+                    "endOffset": 104559
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5318,12 +5317,12 @@
             },
             {
                 "to": {
-                    "startLine": 1362,
+                    "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 104755,
-                    "endLine": 1365,
+                    "startOffset": 104564,
+                    "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 105088
+                    "endOffset": 104788
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5331,12 +5330,12 @@
             },
             {
                 "to": {
-                    "startLine": 1366,
+                    "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 105093,
-                    "endLine": 1368,
+                    "startOffset": 104793,
+                    "endLine": 1366,
                     "endColumn": 12,
-                    "endOffset": 105248
+                    "endOffset": 105126
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5344,12 +5343,12 @@
             },
             {
                 "to": {
-                    "startLine": 1369,
+                    "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 105253,
-                    "endLine": 1371,
+                    "startOffset": 105131,
+                    "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 105400
+                    "endOffset": 105286
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5357,12 +5356,12 @@
             },
             {
                 "to": {
-                    "startLine": 1372,
+                    "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 105405,
-                    "endLine": 1374,
+                    "startOffset": 105291,
+                    "endLine": 1372,
                     "endColumn": 12,
-                    "endOffset": 105571
+                    "endOffset": 105438
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5370,12 +5369,12 @@
             },
             {
                 "to": {
-                    "startLine": 1375,
+                    "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 105576,
-                    "endLine": 1377,
+                    "startOffset": 105443,
+                    "endLine": 1375,
                     "endColumn": 12,
-                    "endOffset": 105738
+                    "endOffset": 105609
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5383,12 +5382,12 @@
             },
             {
                 "to": {
-                    "startLine": 1378,
+                    "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 105743,
-                    "endLine": 1381,
+                    "startOffset": 105614,
+                    "endLine": 1378,
                     "endColumn": 12,
-                    "endOffset": 105981
+                    "endOffset": 105776
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5396,12 +5395,12 @@
             },
             {
                 "to": {
-                    "startLine": 1382,
+                    "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 105986,
-                    "endLine": 1384,
+                    "startOffset": 105781,
+                    "endLine": 1382,
                     "endColumn": 12,
-                    "endOffset": 106151
+                    "endOffset": 106019
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5409,12 +5408,12 @@
             },
             {
                 "to": {
-                    "startLine": 1385,
+                    "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 106156,
-                    "endLine": 1387,
+                    "startOffset": 106024,
+                    "endLine": 1385,
                     "endColumn": 12,
-                    "endOffset": 106324
+                    "endOffset": 106189
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5422,12 +5421,12 @@
             },
             {
                 "to": {
-                    "startLine": 1388,
+                    "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 106329,
-                    "endLine": 1390,
+                    "startOffset": 106194,
+                    "endLine": 1388,
                     "endColumn": 12,
-                    "endOffset": 106495
+                    "endOffset": 106362
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5435,12 +5434,12 @@
             },
             {
                 "to": {
-                    "startLine": 1391,
+                    "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 106500,
-                    "endLine": 1394,
+                    "startOffset": 106367,
+                    "endLine": 1391,
                     "endColumn": 12,
-                    "endOffset": 106769
+                    "endOffset": 106533
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5448,12 +5447,12 @@
             },
             {
                 "to": {
-                    "startLine": 1395,
+                    "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106774,
-                    "endLine": 1397,
+                    "startOffset": 106538,
+                    "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 106968
+                    "endOffset": 106807
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5461,12 +5460,12 @@
             },
             {
                 "to": {
-                    "startLine": 1398,
+                    "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 106973,
-                    "endLine": 1400,
+                    "startOffset": 106812,
+                    "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 107215
+                    "endOffset": 107006
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5474,11 +5473,12 @@
             },
             {
                 "to": {
-                    "startLine": 1401,
+                    "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 107220,
-                    "endColumn": 83,
-                    "endOffset": 107299
+                    "startOffset": 107011,
+                    "endLine": 1401,
+                    "endColumn": 12,
+                    "endOffset": 107253
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5488,9 +5488,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 107304,
-                    "endColumn": 95,
-                    "endOffset": 107395
+                    "startOffset": 107258,
+                    "endColumn": 83,
+                    "endOffset": 107337
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5500,9 +5500,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 107400,
+                    "startOffset": 107342,
                     "endColumn": 95,
-                    "endOffset": 107491
+                    "endOffset": 107433
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5512,9 +5512,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 107496,
-                    "endColumn": 97,
-                    "endOffset": 107589
+                    "startOffset": 107438,
+                    "endColumn": 95,
+                    "endOffset": 107529
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5524,9 +5524,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 107594,
-                    "endColumn": 99,
-                    "endOffset": 107689
+                    "startOffset": 107534,
+                    "endColumn": 97,
+                    "endOffset": 107627
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5536,9 +5536,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 107694,
-                    "endColumn": 101,
-                    "endOffset": 107791
+                    "startOffset": 107632,
+                    "endColumn": 99,
+                    "endOffset": 107727
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5548,9 +5548,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 107796,
+                    "startOffset": 107732,
                     "endColumn": 101,
-                    "endOffset": 107893
+                    "endOffset": 107829
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5560,9 +5560,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107898,
+                    "startOffset": 107834,
                     "endColumn": 101,
-                    "endOffset": 107995
+                    "endOffset": 107931
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5572,9 +5572,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 108000,
+                    "startOffset": 107936,
                     "endColumn": 101,
-                    "endOffset": 108097
+                    "endOffset": 108033
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5584,9 +5584,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 108102,
+                    "startOffset": 108038,
                     "endColumn": 101,
-                    "endOffset": 108199
+                    "endOffset": 108135
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5596,9 +5596,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 108204,
-                    "endColumn": 99,
-                    "endOffset": 108299
+                    "startOffset": 108140,
+                    "endColumn": 101,
+                    "endOffset": 108237
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5608,9 +5608,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 108304,
-                    "endColumn": 95,
-                    "endOffset": 108395
+                    "startOffset": 108242,
+                    "endColumn": 99,
+                    "endOffset": 108337
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5620,9 +5620,9 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 108400,
-                    "endColumn": 111,
-                    "endOffset": 108507
+                    "startOffset": 108342,
+                    "endColumn": 95,
+                    "endOffset": 108433
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5632,9 +5632,9 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 108512,
-                    "endColumn": 128,
-                    "endOffset": 108636
+                    "startOffset": 108438,
+                    "endColumn": 111,
+                    "endOffset": 108545
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5644,9 +5644,9 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 108641,
-                    "endColumn": 122,
-                    "endOffset": 108759
+                    "startOffset": 108550,
+                    "endColumn": 128,
+                    "endOffset": 108674
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5656,10 +5656,9 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 108764,
-                    "endLine": 1417,
-                    "endColumn": 12,
-                    "endOffset": 108913
+                    "startOffset": 108679,
+                    "endColumn": 122,
+                    "endOffset": 108797
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5667,12 +5666,12 @@
             },
             {
                 "to": {
-                    "startLine": 1418,
+                    "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 108918,
-                    "endLine": 1419,
+                    "startOffset": 108802,
+                    "endLine": 1418,
                     "endColumn": 12,
-                    "endOffset": 109067
+                    "endOffset": 108951
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5680,11 +5679,12 @@
             },
             {
                 "to": {
-                    "startLine": 1420,
+                    "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 109072,
-                    "endColumn": 97,
-                    "endOffset": 109165
+                    "startOffset": 108956,
+                    "endLine": 1420,
+                    "endColumn": 12,
+                    "endOffset": 109105
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5694,9 +5694,9 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 109170,
-                    "endColumn": 113,
-                    "endOffset": 109279
+                    "startOffset": 109110,
+                    "endColumn": 97,
+                    "endOffset": 109203
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5706,9 +5706,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 109284,
-                    "endColumn": 93,
-                    "endOffset": 109373
+                    "startOffset": 109208,
+                    "endColumn": 113,
+                    "endOffset": 109317
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5718,10 +5718,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 109378,
-                    "endLine": 1424,
-                    "endColumn": 12,
-                    "endOffset": 109513
+                    "startOffset": 109322,
+                    "endColumn": 93,
+                    "endOffset": 109411
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5729,12 +5728,12 @@
             },
             {
                 "to": {
-                    "startLine": 1425,
+                    "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 109518,
-                    "endLine": 1426,
+                    "startOffset": 109416,
+                    "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 109647
+                    "endOffset": 109551
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5742,11 +5741,12 @@
             },
             {
                 "to": {
-                    "startLine": 1427,
+                    "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109652,
-                    "endColumn": 95,
-                    "endOffset": 109743
+                    "startOffset": 109556,
+                    "endLine": 1427,
+                    "endColumn": 12,
+                    "endOffset": 109685
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5756,9 +5756,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 109748,
-                    "endColumn": 111,
-                    "endOffset": 109855
+                    "startOffset": 109690,
+                    "endColumn": 95,
+                    "endOffset": 109781
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5768,9 +5768,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 109860,
-                    "endColumn": 99,
-                    "endOffset": 109955
+                    "startOffset": 109786,
+                    "endColumn": 111,
+                    "endOffset": 109893
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5780,9 +5780,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 109960,
-                    "endColumn": 115,
-                    "endOffset": 110071
+                    "startOffset": 109898,
+                    "endColumn": 99,
+                    "endOffset": 109993
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5792,9 +5792,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 110076,
-                    "endColumn": 95,
-                    "endOffset": 110167
+                    "startOffset": 109998,
+                    "endColumn": 115,
+                    "endOffset": 110109
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5804,9 +5804,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 110172,
-                    "endColumn": 111,
-                    "endOffset": 110279
+                    "startOffset": 110114,
+                    "endColumn": 95,
+                    "endOffset": 110205
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5816,10 +5816,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 110284,
-                    "endLine": 1434,
-                    "endColumn": 12,
-                    "endOffset": 110419
+                    "startOffset": 110210,
+                    "endColumn": 111,
+                    "endOffset": 110317
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5827,12 +5826,12 @@
             },
             {
                 "to": {
-                    "startLine": 1435,
+                    "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 110424,
-                    "endLine": 1436,
+                    "startOffset": 110322,
+                    "endLine": 1435,
                     "endColumn": 12,
-                    "endOffset": 110567
+                    "endOffset": 110457
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5840,12 +5839,12 @@
             },
             {
                 "to": {
-                    "startLine": 1437,
+                    "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 110572,
-                    "endLine": 1438,
+                    "startOffset": 110462,
+                    "endLine": 1437,
                     "endColumn": 12,
-                    "endOffset": 110731
+                    "endOffset": 110605
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5853,12 +5852,12 @@
             },
             {
                 "to": {
-                    "startLine": 1439,
+                    "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 110736,
-                    "endLine": 1440,
+                    "startOffset": 110610,
+                    "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 110873
+                    "endOffset": 110769
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5866,12 +5865,12 @@
             },
             {
                 "to": {
-                    "startLine": 1441,
+                    "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 110878,
-                    "endLine": 1442,
+                    "startOffset": 110774,
+                    "endLine": 1441,
                     "endColumn": 12,
-                    "endOffset": 111031
+                    "endOffset": 110911
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5879,12 +5878,12 @@
             },
             {
                 "to": {
-                    "startLine": 1443,
+                    "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 111036,
-                    "endLine": 1444,
+                    "startOffset": 110916,
+                    "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 111181
+                    "endOffset": 111069
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5892,11 +5891,12 @@
             },
             {
                 "to": {
-                    "startLine": 1445,
+                    "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 111186,
-                    "endColumn": 140,
-                    "endOffset": 111322
+                    "startOffset": 111074,
+                    "endLine": 1445,
+                    "endColumn": 12,
+                    "endOffset": 111219
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5906,10 +5906,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 111327,
-                    "endLine": 1447,
-                    "endColumn": 12,
-                    "endOffset": 111466
+                    "startOffset": 111224,
+                    "endColumn": 140,
+                    "endOffset": 111360
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5917,11 +5916,12 @@
             },
             {
                 "to": {
-                    "startLine": 1448,
+                    "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 111471,
-                    "endColumn": 134,
-                    "endOffset": 111601
+                    "startOffset": 111365,
+                    "endLine": 1448,
+                    "endColumn": 12,
+                    "endOffset": 111504
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5931,10 +5931,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 111606,
-                    "endLine": 1450,
-                    "endColumn": 12,
-                    "endOffset": 111737
+                    "startOffset": 111509,
+                    "endColumn": 134,
+                    "endOffset": 111639
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5942,12 +5941,12 @@
             },
             {
                 "to": {
-                    "startLine": 1451,
+                    "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 111742,
-                    "endLine": 1452,
+                    "startOffset": 111644,
+                    "endLine": 1451,
                     "endColumn": 12,
-                    "endOffset": 111879
+                    "endOffset": 111775
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5955,12 +5954,12 @@
             },
             {
                 "to": {
-                    "startLine": 1453,
+                    "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 111884,
-                    "endLine": 1454,
+                    "startOffset": 111780,
+                    "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 112021
+                    "endOffset": 111917
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5968,11 +5967,12 @@
             },
             {
                 "to": {
-                    "startLine": 1455,
+                    "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 112026,
-                    "endColumn": 111,
-                    "endOffset": 112133
+                    "startOffset": 111922,
+                    "endLine": 1455,
+                    "endColumn": 12,
+                    "endOffset": 112059
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5982,9 +5982,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 112138,
-                    "endColumn": 139,
-                    "endOffset": 112273
+                    "startOffset": 112064,
+                    "endColumn": 111,
+                    "endOffset": 112171
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -5994,9 +5994,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 112278,
-                    "endColumn": 67,
-                    "endOffset": 112341
+                    "startOffset": 112176,
+                    "endColumn": 139,
+                    "endOffset": 112311
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6006,9 +6006,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 112346,
-                    "endColumn": 72,
-                    "endOffset": 112414
+                    "startOffset": 112316,
+                    "endColumn": 67,
+                    "endOffset": 112379
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6018,9 +6018,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 112419,
-                    "endColumn": 73,
-                    "endOffset": 112488
+                    "startOffset": 112384,
+                    "endColumn": 72,
+                    "endOffset": 112452
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6030,9 +6030,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 112493,
-                    "endColumn": 72,
-                    "endOffset": 112561
+                    "startOffset": 112457,
+                    "endColumn": 73,
+                    "endOffset": 112526
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6042,9 +6042,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 112566,
-                    "endColumn": 73,
-                    "endOffset": 112635
+                    "startOffset": 112531,
+                    "endColumn": 72,
+                    "endOffset": 112599
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6054,10 +6054,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 112640,
-                    "endLine": 1463,
-                    "endColumn": 12,
-                    "endOffset": 112781
+                    "startOffset": 112604,
+                    "endColumn": 73,
+                    "endOffset": 112673
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6065,12 +6064,12 @@
             },
             {
                 "to": {
-                    "startLine": 1464,
+                    "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 112786,
-                    "endLine": 1465,
+                    "startOffset": 112678,
+                    "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 112925
+                    "endOffset": 112819
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6078,12 +6077,12 @@
             },
             {
                 "to": {
-                    "startLine": 1466,
+                    "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 112930,
-                    "endLine": 1467,
+                    "startOffset": 112824,
+                    "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 113063
+                    "endOffset": 112963
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6091,11 +6090,12 @@
             },
             {
                 "to": {
-                    "startLine": 1468,
+                    "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 113068,
-                    "endColumn": 65,
-                    "endOffset": 113129
+                    "startOffset": 112968,
+                    "endLine": 1468,
+                    "endColumn": 12,
+                    "endOffset": 113101
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6105,9 +6105,9 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 113134,
-                    "endColumn": 89,
-                    "endOffset": 113219
+                    "startOffset": 113106,
+                    "endColumn": 65,
+                    "endOffset": 113167
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6117,9 +6117,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 113224,
-                    "endColumn": 79,
-                    "endOffset": 113299
+                    "startOffset": 113172,
+                    "endColumn": 89,
+                    "endOffset": 113257
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6129,9 +6129,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 113304,
-                    "endColumn": 91,
-                    "endOffset": 113391
+                    "startOffset": 113262,
+                    "endColumn": 79,
+                    "endOffset": 113337
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6141,9 +6141,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 113396,
-                    "endColumn": 97,
-                    "endOffset": 113489
+                    "startOffset": 113342,
+                    "endColumn": 91,
+                    "endOffset": 113429
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6153,10 +6153,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 113494,
-                    "endLine": 1474,
-                    "endColumn": 12,
-                    "endOffset": 113599
+                    "startOffset": 113434,
+                    "endColumn": 97,
+                    "endOffset": 113527
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6164,11 +6163,12 @@
             },
             {
                 "to": {
-                    "startLine": 1475,
+                    "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 113604,
-                    "endColumn": 77,
-                    "endOffset": 113677
+                    "startOffset": 113532,
+                    "endLine": 1475,
+                    "endColumn": 12,
+                    "endOffset": 113637
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6178,9 +6178,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 113682,
-                    "endColumn": 105,
-                    "endOffset": 113783
+                    "startOffset": 113642,
+                    "endColumn": 77,
+                    "endOffset": 113715
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6190,9 +6190,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 113788,
-                    "endColumn": 91,
-                    "endOffset": 113875
+                    "startOffset": 113720,
+                    "endColumn": 105,
+                    "endOffset": 113821
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6202,9 +6202,9 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 113880,
-                    "endColumn": 103,
-                    "endOffset": 113979
+                    "startOffset": 113826,
+                    "endColumn": 91,
+                    "endOffset": 113913
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6214,9 +6214,9 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 113984,
-                    "endColumn": 109,
-                    "endOffset": 114089
+                    "startOffset": 113918,
+                    "endColumn": 103,
+                    "endOffset": 114017
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6226,10 +6226,9 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 114094,
-                    "endLine": 1481,
-                    "endColumn": 12,
-                    "endOffset": 114211
+                    "startOffset": 114022,
+                    "endColumn": 109,
+                    "endOffset": 114127
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6237,12 +6236,12 @@
             },
             {
                 "to": {
-                    "startLine": 1482,
+                    "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 114216,
-                    "endLine": 1485,
+                    "startOffset": 114132,
+                    "endLine": 1482,
                     "endColumn": 12,
-                    "endOffset": 114374
+                    "endOffset": 114249
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6250,12 +6249,12 @@
             },
             {
                 "to": {
-                    "startLine": 1486,
+                    "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 114379,
-                    "endLine": 1489,
+                    "startOffset": 114254,
+                    "endLine": 1486,
                     "endColumn": 12,
-                    "endOffset": 114531
+                    "endOffset": 114412
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6263,12 +6262,25 @@
             },
             {
                 "to": {
-                    "startLine": 1490,
+                    "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 114536,
-                    "endLine": 1497,
+                    "startOffset": 114417,
+                    "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 115014
+                    "endOffset": 114569
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1491,
+                    "startColumn": 4,
+                    "startOffset": 114574,
+                    "endLine": 1498,
+                    "endColumn": 12,
+                    "endOffset": 115052
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values/values.xml"
@@ -6276,36 +6288,24 @@
             },
             {
                 "to": {
-                    "startLine": 1498,
+                    "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 115019,
-                    "endLine": 1500,
+                    "startOffset": 115057,
+                    "endLine": 1501,
                     "endColumn": 12,
-                    "endOffset": 115192
+                    "endOffset": 115230
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/io.smooch/ui/2.1.3/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1501,
-                    "startColumn": 4,
-                    "startOffset": 115197,
-                    "endColumn": 79,
-                    "endOffset": 115272
-                },
-                "from": {
-                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 115277,
-                    "endColumn": 99,
-                    "endOffset": 115372
+                    "startOffset": 115235,
+                    "endColumn": 79,
+                    "endOffset": 115310
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6315,9 +6315,9 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 115377,
-                    "endColumn": 89,
-                    "endOffset": 115462
+                    "startOffset": 115315,
+                    "endColumn": 99,
+                    "endOffset": 115410
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6327,9 +6327,9 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 115467,
-                    "endColumn": 109,
-                    "endOffset": 115572
+                    "startOffset": 115415,
+                    "endColumn": 89,
+                    "endOffset": 115500
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6339,9 +6339,9 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 115577,
-                    "endColumn": 91,
-                    "endOffset": 115664
+                    "startOffset": 115505,
+                    "endColumn": 109,
+                    "endOffset": 115610
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6351,10 +6351,9 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 115669,
-                    "endLine": 1507,
-                    "endColumn": 12,
-                    "endOffset": 115764
+                    "startOffset": 115615,
+                    "endColumn": 91,
+                    "endOffset": 115702
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6362,12 +6361,12 @@
             },
             {
                 "to": {
-                    "startLine": 1508,
+                    "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 115769,
-                    "endLine": 1509,
+                    "startOffset": 115707,
+                    "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 115876
+                    "endOffset": 115802
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6375,12 +6374,12 @@
             },
             {
                 "to": {
-                    "startLine": 1510,
+                    "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 115881,
-                    "endLine": 1511,
+                    "startOffset": 115807,
+                    "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 115990
+                    "endOffset": 115914
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6388,12 +6387,12 @@
             },
             {
                 "to": {
-                    "startLine": 1512,
+                    "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 115995,
-                    "endLine": 1513,
+                    "startOffset": 115919,
+                    "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 116106
+                    "endOffset": 116028
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6401,12 +6400,12 @@
             },
             {
                 "to": {
-                    "startLine": 1514,
+                    "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 116111,
-                    "endLine": 1515,
+                    "startOffset": 116033,
+                    "endLine": 1514,
                     "endColumn": 12,
-                    "endOffset": 116222
+                    "endOffset": 116144
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6414,11 +6413,12 @@
             },
             {
                 "to": {
-                    "startLine": 1516,
+                    "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 116227,
-                    "endColumn": 93,
-                    "endOffset": 116316
+                    "startOffset": 116149,
+                    "endLine": 1516,
+                    "endColumn": 12,
+                    "endOffset": 116260
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6428,9 +6428,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 116321,
-                    "endColumn": 113,
-                    "endOffset": 116430
+                    "startOffset": 116265,
+                    "endColumn": 93,
+                    "endOffset": 116354
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6440,9 +6440,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 116435,
-                    "endColumn": 117,
-                    "endOffset": 116548
+                    "startOffset": 116359,
+                    "endColumn": 113,
+                    "endOffset": 116468
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6452,10 +6452,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 116553,
-                    "endLine": 1520,
-                    "endColumn": 12,
-                    "endOffset": 116650
+                    "startOffset": 116473,
+                    "endColumn": 117,
+                    "endOffset": 116586
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6463,12 +6462,12 @@
             },
             {
                 "to": {
-                    "startLine": 1521,
+                    "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 116655,
-                    "endLine": 1522,
+                    "startOffset": 116591,
+                    "endLine": 1521,
                     "endColumn": 12,
-                    "endOffset": 116770
+                    "endOffset": 116688
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6476,12 +6475,12 @@
             },
             {
                 "to": {
-                    "startLine": 1523,
+                    "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 116775,
-                    "endLine": 1524,
+                    "startOffset": 116693,
+                    "endLine": 1523,
                     "endColumn": 12,
-                    "endOffset": 116892
+                    "endOffset": 116808
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6489,11 +6488,12 @@
             },
             {
                 "to": {
-                    "startLine": 1525,
+                    "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 116897,
-                    "endColumn": 81,
-                    "endOffset": 116974
+                    "startOffset": 116813,
+                    "endLine": 1525,
+                    "endColumn": 12,
+                    "endOffset": 116930
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6503,9 +6503,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 116979,
-                    "endColumn": 103,
-                    "endOffset": 117078
+                    "startOffset": 116935,
+                    "endColumn": 81,
+                    "endOffset": 117012
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6515,9 +6515,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 117083,
-                    "endColumn": 119,
-                    "endOffset": 117198
+                    "startOffset": 117017,
+                    "endColumn": 103,
+                    "endOffset": 117116
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6527,9 +6527,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 117203,
-                    "endColumn": 125,
-                    "endOffset": 117324
+                    "startOffset": 117121,
+                    "endColumn": 119,
+                    "endOffset": 117236
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6539,9 +6539,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 117329,
-                    "endColumn": 93,
-                    "endOffset": 117418
+                    "startOffset": 117241,
+                    "endColumn": 125,
+                    "endOffset": 117362
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6551,9 +6551,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 117423,
-                    "endColumn": 87,
-                    "endOffset": 117506
+                    "startOffset": 117367,
+                    "endColumn": 93,
+                    "endOffset": 117456
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6563,9 +6563,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 117511,
-                    "endColumn": 111,
-                    "endOffset": 117618
+                    "startOffset": 117461,
+                    "endColumn": 87,
+                    "endOffset": 117544
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6575,9 +6575,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 117623,
-                    "endColumn": 115,
-                    "endOffset": 117734
+                    "startOffset": 117549,
+                    "endColumn": 111,
+                    "endOffset": 117656
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6587,9 +6587,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 117739,
-                    "endColumn": 121,
-                    "endOffset": 117856
+                    "startOffset": 117661,
+                    "endColumn": 115,
+                    "endOffset": 117772
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6599,9 +6599,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 117861,
-                    "endColumn": 111,
-                    "endOffset": 117968
+                    "startOffset": 117777,
+                    "endColumn": 121,
+                    "endOffset": 117894
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6611,10 +6611,9 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 117973,
-                    "endLine": 1537,
-                    "endColumn": 12,
-                    "endOffset": 118143
+                    "startOffset": 117899,
+                    "endColumn": 111,
+                    "endOffset": 118006
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6622,11 +6621,12 @@
             },
             {
                 "to": {
-                    "startLine": 1538,
+                    "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 118148,
-                    "endColumn": 115,
-                    "endOffset": 118259
+                    "startOffset": 118011,
+                    "endLine": 1538,
+                    "endColumn": 12,
+                    "endOffset": 118181
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6636,10 +6636,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 118264,
-                    "endLine": 1540,
-                    "endColumn": 12,
-                    "endOffset": 118357
+                    "startOffset": 118186,
+                    "endColumn": 115,
+                    "endOffset": 118297
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6647,12 +6646,12 @@
             },
             {
                 "to": {
-                    "startLine": 1541,
+                    "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 118362,
-                    "endLine": 1542,
+                    "startOffset": 118302,
+                    "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 118469
+                    "endOffset": 118395
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6660,12 +6659,12 @@
             },
             {
                 "to": {
-                    "startLine": 1543,
+                    "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 118474,
-                    "endLine": 1544,
+                    "startOffset": 118400,
+                    "endLine": 1543,
                     "endColumn": 12,
-                    "endOffset": 118593
+                    "endOffset": 118507
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6673,11 +6672,12 @@
             },
             {
                 "to": {
-                    "startLine": 1545,
+                    "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 118598,
-                    "endColumn": 66,
-                    "endOffset": 118660
+                    "startOffset": 118512,
+                    "endLine": 1545,
+                    "endColumn": 12,
+                    "endOffset": 118631
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6687,10 +6687,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 118665,
-                    "endLine": 1547,
-                    "endColumn": 12,
-                    "endOffset": 118786
+                    "startOffset": 118636,
+                    "endColumn": 66,
+                    "endOffset": 118698
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6698,11 +6697,12 @@
             },
             {
                 "to": {
-                    "startLine": 1548,
+                    "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 118791,
-                    "endColumn": 67,
-                    "endOffset": 118854
+                    "startOffset": 118703,
+                    "endLine": 1548,
+                    "endColumn": 12,
+                    "endOffset": 118824
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6712,10 +6712,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 118859,
-                    "endLine": 1550,
-                    "endColumn": 12,
-                    "endOffset": 118982
+                    "startOffset": 118829,
+                    "endColumn": 67,
+                    "endOffset": 118892
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6723,12 +6722,12 @@
             },
             {
                 "to": {
-                    "startLine": 1551,
+                    "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 118987,
-                    "endLine": 1552,
+                    "startOffset": 118897,
+                    "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 119126
+                    "endOffset": 119020
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6736,12 +6735,12 @@
             },
             {
                 "to": {
-                    "startLine": 1553,
+                    "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 119131,
-                    "endLine": 1554,
+                    "startOffset": 119025,
+                    "endLine": 1553,
                     "endColumn": 12,
-                    "endOffset": 119254
+                    "endOffset": 119164
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6749,11 +6748,12 @@
             },
             {
                 "to": {
-                    "startLine": 1555,
+                    "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 119259,
-                    "endColumn": 68,
-                    "endOffset": 119323
+                    "startOffset": 119169,
+                    "endLine": 1555,
+                    "endColumn": 12,
+                    "endOffset": 119292
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6763,9 +6763,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 119328,
-                    "endColumn": 94,
-                    "endOffset": 119418
+                    "startOffset": 119297,
+                    "endColumn": 68,
+                    "endOffset": 119361
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6775,9 +6775,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 119423,
-                    "endColumn": 114,
-                    "endOffset": 119533
+                    "startOffset": 119366,
+                    "endColumn": 94,
+                    "endOffset": 119456
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6787,9 +6787,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 119538,
-                    "endColumn": 112,
-                    "endOffset": 119646
+                    "startOffset": 119461,
+                    "endColumn": 114,
+                    "endOffset": 119571
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6799,9 +6799,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 119651,
-                    "endColumn": 98,
-                    "endOffset": 119745
+                    "startOffset": 119576,
+                    "endColumn": 112,
+                    "endOffset": 119684
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6811,9 +6811,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 119750,
-                    "endColumn": 108,
-                    "endOffset": 119854
+                    "startOffset": 119689,
+                    "endColumn": 98,
+                    "endOffset": 119783
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6823,9 +6823,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 119859,
-                    "endColumn": 110,
-                    "endOffset": 119965
+                    "startOffset": 119788,
+                    "endColumn": 108,
+                    "endOffset": 119892
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6835,9 +6835,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 119970,
+                    "startOffset": 119897,
                     "endColumn": 110,
-                    "endOffset": 120076
+                    "endOffset": 120003
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6847,9 +6847,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 120081,
-                    "endColumn": 100,
-                    "endOffset": 120177
+                    "startOffset": 120008,
+                    "endColumn": 110,
+                    "endOffset": 120114
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6859,9 +6859,9 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 120182,
-                    "endColumn": 104,
-                    "endOffset": 120282
+                    "startOffset": 120119,
+                    "endColumn": 100,
+                    "endOffset": 120215
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6871,10 +6871,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 120287,
-                    "endLine": 1566,
-                    "endColumn": 12,
-                    "endOffset": 120394
+                    "startOffset": 120220,
+                    "endColumn": 104,
+                    "endOffset": 120320
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6882,12 +6881,12 @@
             },
             {
                 "to": {
-                    "startLine": 1567,
+                    "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 120399,
-                    "endLine": 1568,
+                    "startOffset": 120325,
+                    "endLine": 1567,
                     "endColumn": 12,
-                    "endOffset": 120524
+                    "endOffset": 120432
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6895,11 +6894,12 @@
             },
             {
                 "to": {
-                    "startLine": 1569,
+                    "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 120529,
-                    "endColumn": 90,
-                    "endOffset": 120615
+                    "startOffset": 120437,
+                    "endLine": 1569,
+                    "endColumn": 12,
+                    "endOffset": 120562
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6909,9 +6909,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 120620,
-                    "endColumn": 122,
-                    "endOffset": 120738
+                    "startOffset": 120567,
+                    "endColumn": 90,
+                    "endOffset": 120653
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6921,10 +6921,9 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 120743,
-                    "endLine": 1572,
-                    "endColumn": 12,
-                    "endOffset": 120850
+                    "startOffset": 120658,
+                    "endColumn": 122,
+                    "endOffset": 120776
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6932,11 +6931,12 @@
             },
             {
                 "to": {
-                    "startLine": 1573,
+                    "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 120855,
-                    "endColumn": 85,
-                    "endOffset": 120936
+                    "startOffset": 120781,
+                    "endLine": 1573,
+                    "endColumn": 12,
+                    "endOffset": 120888
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6946,9 +6946,9 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 120941,
-                    "endColumn": 103,
-                    "endOffset": 121040
+                    "startOffset": 120893,
+                    "endColumn": 85,
+                    "endOffset": 120974
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6958,10 +6958,9 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 121045,
-                    "endLine": 1576,
-                    "endColumn": 12,
-                    "endOffset": 121148
+                    "startOffset": 120979,
+                    "endColumn": 103,
+                    "endOffset": 121078
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6969,12 +6968,12 @@
             },
             {
                 "to": {
-                    "startLine": 1577,
+                    "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 121153,
-                    "endLine": 1578,
+                    "startOffset": 121083,
+                    "endLine": 1577,
                     "endColumn": 12,
-                    "endOffset": 121248
+                    "endOffset": 121186
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6982,12 +6981,12 @@
             },
             {
                 "to": {
-                    "startLine": 1579,
+                    "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 121253,
-                    "endLine": 1580,
+                    "startOffset": 121191,
+                    "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 121366
+                    "endOffset": 121286
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -6995,12 +6994,12 @@
             },
             {
                 "to": {
-                    "startLine": 1581,
+                    "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 121371,
-                    "endLine": 1582,
+                    "startOffset": 121291,
+                    "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 121470
+                    "endOffset": 121404
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7008,12 +7007,12 @@
             },
             {
                 "to": {
-                    "startLine": 1583,
+                    "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 121475,
-                    "endLine": 1584,
+                    "startOffset": 121409,
+                    "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 121574
+                    "endOffset": 121508
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7021,12 +7020,12 @@
             },
             {
                 "to": {
-                    "startLine": 1585,
+                    "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 121579,
-                    "endLine": 1586,
+                    "startOffset": 121513,
+                    "endLine": 1585,
                     "endColumn": 12,
-                    "endOffset": 121700
+                    "endOffset": 121612
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7034,11 +7033,12 @@
             },
             {
                 "to": {
-                    "startLine": 1587,
+                    "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 121705,
-                    "endColumn": 87,
-                    "endOffset": 121788
+                    "startOffset": 121617,
+                    "endLine": 1587,
+                    "endColumn": 12,
+                    "endOffset": 121738
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7048,9 +7048,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 121793,
-                    "endColumn": 89,
-                    "endOffset": 121878
+                    "startOffset": 121743,
+                    "endColumn": 87,
+                    "endOffset": 121826
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7060,9 +7060,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 121883,
-                    "endColumn": 109,
-                    "endOffset": 121988
+                    "startOffset": 121831,
+                    "endColumn": 89,
+                    "endOffset": 121916
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7072,9 +7072,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 121993,
-                    "endColumn": 83,
-                    "endOffset": 122072
+                    "startOffset": 121921,
+                    "endColumn": 109,
+                    "endOffset": 122026
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7084,9 +7084,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 122077,
-                    "endColumn": 53,
-                    "endOffset": 122126
+                    "startOffset": 122031,
+                    "endColumn": 83,
+                    "endOffset": 122110
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7096,9 +7096,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 122131,
-                    "endColumn": 121,
-                    "endOffset": 122248
+                    "startOffset": 122115,
+                    "endColumn": 53,
+                    "endOffset": 122164
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7108,9 +7108,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 122253,
-                    "endColumn": 105,
-                    "endOffset": 122354
+                    "startOffset": 122169,
+                    "endColumn": 121,
+                    "endOffset": 122286
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7120,9 +7120,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 122359,
-                    "endColumn": 109,
-                    "endOffset": 122464
+                    "startOffset": 122291,
+                    "endColumn": 105,
+                    "endOffset": 122392
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7132,9 +7132,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 122469,
-                    "endColumn": 83,
-                    "endOffset": 122548
+                    "startOffset": 122397,
+                    "endColumn": 109,
+                    "endOffset": 122502
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
@@ -7144,9 +7144,21 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 122553,
+                    "startOffset": 122507,
+                    "endColumn": 83,
+                    "endOffset": 122586
+                },
+                "from": {
+                    "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1597,
+                    "startColumn": 4,
+                    "startOffset": 122591,
                     "endColumn": 125,
-                    "endOffset": 122674
+                    "endOffset": 122712
                 },
                 "from": {
                     "file": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml"

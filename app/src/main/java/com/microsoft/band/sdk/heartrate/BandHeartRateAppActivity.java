@@ -38,34 +38,52 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
+import io.smooch.core.Message;
+import io.smooch.core.Smooch;
 import io.smooch.core.User;
 import io.smooch.ui.ConversationActivity;
 
 public class BandHeartRateAppActivity extends Activity {
 
 	private BandClient client = null;
-	private Button btnStart, btnConsent, btnHelp;
+	private Button btnStart, btnStop, btnConsent, btnHelp;
 	private TextView txtStatus;
+    boolean msgSent = false;
 	
 	private BandHeartRateEventListener mHeartRateEventListener = new BandHeartRateEventListener() {
         @Override
         public void onBandHeartRateChanged(final BandHeartRateEvent event) {
-			int low = 80;
-			int high = 90;
+			int low = 76;
+			int high = 83;
             if (event != null) {
 				int heartRate = event.getHeartRate();
 				String statusStr = String.format("Heart Rate = %d beats per minute\n"
 						+ "Quality = %s\n", event.getHeartRate(), event.getQuality());
 				if (heartRate < low) {
 					statusStr += String.format("Heart Rate is lower than %d\n", low);
-
 				} else if (heartRate > high) {
 					statusStr += String.format("Heart Rate is higher than %d\n", high);
-
 				}
+
 //            	appendToUI(String.format("Heart Rate = %d beats per minute\n"
 //            			+ "Quality = %s\n", event.getHeartRate(), event.getQuality()));
 				appendToUI(statusStr);
+
+                if (msgSent == false) {
+                    if (heartRate < low ) {
+                        Smooch.getConversation().sendMessage(new Message("Heart Rate is too low: "+statusStr));
+                        msgSent = true;
+                    } else if (heartRate > high) {
+                        Smooch.getConversation().sendMessage(new Message("Heart Rate is too high: "+statusStr));
+                        msgSent = true;
+
+                    }
+                } else if ((heartRate > low && heartRate < high) && msgSent == true) {
+
+                    Smooch.getConversation().sendMessage(new Message("Back to normal: "+statusStr));
+                    msgSent = false;
+                }
+
             }
         }
     };
@@ -85,8 +103,26 @@ public class BandHeartRateAppActivity extends Activity {
 			public void onClick(View v) {
 				txtStatus.setText("");
 				new HeartRateSubscriptionTask().execute();
+                Smooch.getConversation().sendMessage(new Message("Heart rate monitoring has been turned on"));
 			}
 		});
+
+        btnStop = (Button) findViewById(R.id.btnStop);
+        btnStop.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (client != null) {
+        			try {
+        				client.getSensorManager().unregisterHeartRateEventListener(mHeartRateEventListener);
+                        txtStatus.setText("Heart rate monitoring has been turned off");
+                        Smooch.getConversation().sendMessage(new Message("Heart rate monitoring has been turned off"));
+
+        			} catch (BandIOException e) {
+        				appendToUI(e.getMessage());
+        			}
+        		}
+            }
+        });
         
         final WeakReference<Activity> reference = new WeakReference<Activity>(this);
         
@@ -103,28 +139,38 @@ public class BandHeartRateAppActivity extends Activity {
         btnHelp.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 ConversationActivity.show(BandHeartRateAppActivity.this);
             }
         });
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                new HeartRateSubscriptionTask().execute();
+                Smooch.getConversation().sendMessage(new Message("App has been turned on"));
+            }
+        }).start();
     }
 	
 	@Override
 	protected void onResume() {
 		super.onResume();
-		txtStatus.setText("");
+		txtStatus.setText("Resuming...");
+        new HeartRateSubscriptionTask().execute();
 	}
 	
-    @Override
-	protected void onPause() {
-		super.onPause();
-		if (client != null) {
-			try {
-				client.getSensorManager().unregisterHeartRateEventListener(mHeartRateEventListener);
-			} catch (BandIOException e) {
-				appendToUI(e.getMessage());
-			}
-		}
-	}
+//    @Override
+//	protected void onPause() {
+//		super.onPause();
+//		if (client != null) {
+//			try {
+//				client.getSensorManager().unregisterHeartRateEventListener(mHeartRateEventListener);
+//			} catch (BandIOException e) {
+//				appendToUI(e.getMessage());
+//			}
+//		}
+//	}
 	
     @Override
     protected void onDestroy() {

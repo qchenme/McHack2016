@@ -330,6 +330,7 @@
         yes on the dialog that pops up.\n
         4. Press the Start button\n
         5. Data from the heart rate sensor should be displayed.</string>
+    <string name="stop">Stop</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

@@ -16,4 +16,5 @@
     
     <string name="consent">Heart Rate Consent</string>
     <string name="help">!!!Help!!!</string>
+    <string name="stop">Stop</string>
 </resources>
