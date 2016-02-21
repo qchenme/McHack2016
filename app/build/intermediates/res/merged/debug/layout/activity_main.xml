@@ -68,7 +68,6 @@
         android:id="@+id/txtStatus"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="66sp"
         android:gravity="center_horizontal"
         android:text="" />
 

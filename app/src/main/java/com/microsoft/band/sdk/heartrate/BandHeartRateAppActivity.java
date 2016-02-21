@@ -34,6 +34,7 @@ import com.microsoft.band.sensors.HeartRateConsentListener;
 
 import android.graphics.Color;
 import android.os.Bundle;
+import android.util.TypedValue;
 import android.view.View;
 import android.app.Activity;
 import android.os.AsyncTask;
@@ -155,7 +156,7 @@ public class BandHeartRateAppActivity extends Activity {
                 if (client != null) {
         			try {
         				client.getSensorManager().unregisterHeartRateEventListener(mHeartRateEventListener);
-                        txtStatus.setText("Heart rate monitoring has been turned off.");
+                        appendToUI("Heart rate monitoring has been turned off.");
                         Smooch.getConversation().sendMessage(new Message("Heart rate monitoring has been turned off."));
 
         			} catch (BandIOException e) {
@@ -305,6 +306,8 @@ public class BandHeartRateAppActivity extends Activity {
             @Override
             public void run() {
             	txtStatus.setText(string);
+				txtStatus.setTextColor(Color.BLACK);
+				txtStatus.setTextSize(TypedValue.COMPLEX_UNIT_SP, 25);
             }
         });
 	}
@@ -319,6 +322,7 @@ public class BandHeartRateAppActivity extends Activity {
 				} else {
 					txtStatus.setTextColor(Color.BLUE);
 				}
+				txtStatus.setTextSize(TypedValue.COMPLEX_UNIT_SP,70);
 
 			}
 		});
