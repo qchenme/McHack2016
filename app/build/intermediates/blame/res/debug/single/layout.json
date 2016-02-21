@@ -16,6 +16,10 @@
         "source": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_simple_dropdown_hint.xml"
     },
     {
+        "merged": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/res/merged/debug/layout/activity_setup.xml",
+        "source": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/layout/activity_setup.xml"
+    },
+    {
         "merged": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_media.xml"
     },

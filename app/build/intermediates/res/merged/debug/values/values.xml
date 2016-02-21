@@ -318,8 +318,9 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="consent">Heart Rate Consent</string>
+    <string name="consent">Pair wristband</string>
     <string name="help">Chat with Dr Heart</string>
+    <string name="init_submit">Submit</string>
     <string name="start">Start</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steps">Steps to use this app: \n
@@ -331,6 +332,7 @@
         4. Press the Start button\n
         5. Data from the heart rate sensor should be displayed.</string>
     <string name="stop">Stop</string>
+    <string name="title_activity_setup">SetupActivity</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

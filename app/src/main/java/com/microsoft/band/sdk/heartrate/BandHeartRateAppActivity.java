@@ -32,18 +32,17 @@ import com.microsoft.band.sensors.BandHeartRateEvent;
 import com.microsoft.band.sensors.BandHeartRateEventListener;
 import com.microsoft.band.sensors.HeartRateConsentListener;
 
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.app.Activity;
 import android.os.AsyncTask;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import io.smooch.core.Message;
 import io.smooch.core.Smooch;
-import io.smooch.core.User;
 import io.smooch.ui.ConversationActivity;
 
 public class BandHeartRateAppActivity extends Activity {
@@ -51,13 +50,30 @@ public class BandHeartRateAppActivity extends Activity {
 	private BandClient client = null;
 	private Button btnStart, btnStop, btnConsent, btnHelp;
 	private TextView txtStatus;
-    boolean msgSent = false;
-	
-	private BandHeartRateEventListener mHeartRateEventListener = new BandHeartRateEventListener() {
+    private EditText low_text;
+    private EditText high_text;
+    private boolean msgSent = false;
+    private int low = 75;
+    private int high = 80;
+//    private SharedPreferences pref;
+//    boolean firstLaunch;
+
+    private BandHeartRateEventListener mHeartRateEventListener = new BandHeartRateEventListener() {
         @Override
         public void onBandHeartRateChanged(final BandHeartRateEvent event) {
-			int low = 76;
-			int high = 83;
+            try {
+                low = Integer.parseInt(low_text.getText().toString());
+            } catch (Exception e) {
+                low = 75;
+//                low_text.setText("75");
+            }
+            try {
+                high = Integer.parseInt(high_text.getText().toString());
+            } catch (Exception e) {
+                high = 80;
+//                high_text.setText("80");
+            }
+
             if (event != null) {
 				int heartRate = event.getHeartRate();
 				String statusStr = String.format("Heart Rate = %d beats per minute\n"
@@ -72,7 +88,7 @@ public class BandHeartRateAppActivity extends Activity {
 //            			+ "Quality = %s\n", event.getHeartRate(), event.getQuality()));
 				appendToUI(statusStr);
 
-                if (msgSent == false) {
+                if (!msgSent) {
                     if (heartRate < low ) {
                         Smooch.getConversation().sendMessage(new Message("Heart Rate is too low: "+statusStr));
                         msgSent = true;
@@ -80,7 +96,7 @@ public class BandHeartRateAppActivity extends Activity {
                         Smooch.getConversation().sendMessage(new Message("Heart Rate is too high: "+statusStr));
                         msgSent = true;
                     }
-                } else if ((heartRate > low && heartRate < high) && msgSent == true) {
+                } else if ((heartRate > low && heartRate < high) && msgSent) {
                     Smooch.getConversation().sendMessage(new Message("Back to normal: "+statusStr));
                     msgSent = false;
                 }
@@ -95,17 +111,30 @@ public class BandHeartRateAppActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        SharedPreferences preferences = getSharedPreferences("heartApp", MODE_PRIVATE);
-        boolean firstLaunch = preferences.getBoolean("firstLaunch", true);
-        if (firstLaunch) {
-            Smooch.track("init");
-            preferences.edit().putBoolean("firstLaunch", false).apply();
-        }
 
         setContentView(R.layout.activity_main);
 
-        User.getCurrentUser().setFirstName("John");
-        User.getCurrentUser().setLastName("Appleseed");
+        low_text = (EditText) findViewById(R.id.low_text);
+        high_text = (EditText) findViewById(R.id.high_text);
+        low_text.setText("75");
+        high_text.setText("80");
+
+
+//        pref = getSharedPreferences("Config", MODE_PRIVATE);
+//        firstLaunch = pref.getBoolean("firstLaunch", true);
+//
+//        if (firstLaunch) {
+//            pref.edit().putBoolean("firstLaunch", false);
+//            Intent intent = new Intent(BandHeartRateAppActivity.this, SetupActivity.class);
+//            startActivity(intent);
+//        }
+
+//        boolean firstLaunch = preferences.getBoolean("firstLaunch", true);
+//        if (firstLaunch) {
+//            Smooch.track("init");
+//            ConversationActivity.show(this);
+//        }
+
 
         txtStatus = (TextView) findViewById(R.id.txtStatus);
         btnStart = (Button) findViewById(R.id.btnStart);
@@ -155,19 +184,19 @@ public class BandHeartRateAppActivity extends Activity {
             }
         });
 
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                new HeartRateSubscriptionTask().execute();
-                Smooch.getConversation().sendMessage(new Message("App has been turned on"));
-            }
-        }).start();
+//        new Thread(new Runnable() {
+//            @Override
+//            public void run() {
+        new HeartRateSubscriptionTask().execute();
+        Smooch.getConversation().sendMessage(new Message("App has been turned on"));
+//            }
+//        }).start();
     }
 	
 	@Override
 	protected void onResume() {
 		super.onResume();
-		txtStatus.setText("Resuming...");
+		txtStatus.setText("...");
         new HeartRateSubscriptionTask().execute();
 	}
 	
@@ -205,8 +234,7 @@ public class BandHeartRateAppActivity extends Activity {
 					if (client.getSensorManager().getCurrentHeartRateConsent() == UserConsent.GRANTED) {
 						client.getSensorManager().registerHeartRateEventListener(mHeartRateEventListener);
 					} else {
-						appendToUI("You have not given this application consent to access heart rate data yet."
-								+ " Please press the Heart Rate Consent button.\n");
+						appendToUI("Please press the Pair Wristband button, and then Start monitoring\n");
 					}
 				} else {
 					appendToUI("Band isn't connected. Please make sure bluetooth is on and the band is in range.\n");

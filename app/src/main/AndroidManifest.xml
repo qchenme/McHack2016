@@ -2,32 +2,38 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.microsoft.band.sdk.heartrate"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0">
 
     <uses-sdk
         android:minSdkVersion="17"
         android:targetSdkVersion="19" />
-    
+
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="com.microsoft.band.service.access.BIND_BAND_SERVICE" />
-    
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name="com.microsoft.band.sdk.heartrate.heartrate"
+        android:name=".heartrate"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
         <activity
-            android:name="com.microsoft.band.sdk.heartrate.BandHeartRateAppActivity"
-            android:screenOrientation="portrait"
-            android:label="@string/app_name" >
+            android:name=".BandHeartRateAppActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SetupActivity"
+            android:label="@string/title_activity_setup"></activity>
     </application>
 
 </manifest>

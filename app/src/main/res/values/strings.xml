@@ -13,8 +13,10 @@
         4. Press the Start button\n
         5. Data from the heart rate sensor should be displayed.</string>
     <string name="start">Start</string>
-    
-    <string name="consent">Heart Rate Consent</string>
+
+    <string name="consent">Pair wristband</string>
     <string name="help">Chat with Dr Heart</string>
     <string name="stop">Stop</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="init_submit">Submit</string>
 </resources>
