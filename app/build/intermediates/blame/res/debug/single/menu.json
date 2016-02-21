@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/dccmj/Documents/McHack/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/dccmj/Documents/McHack/app/src/main/res/menu/main.xml"
+    },
+    {
         "merged": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/shirunjie/AndroidStudioProjects/BandHeartRateApp/app/src/main/res/menu/main.xml"
     }

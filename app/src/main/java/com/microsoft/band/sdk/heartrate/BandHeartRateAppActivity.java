@@ -32,6 +32,7 @@ import com.microsoft.band.sensors.BandHeartRateEvent;
 import com.microsoft.band.sensors.BandHeartRateEventListener;
 import com.microsoft.band.sensors.HeartRateConsentListener;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.app.Activity;
@@ -86,7 +87,7 @@ public class BandHeartRateAppActivity extends Activity {
 
 //            	appendToUI(String.format("Heart Rate = %d beats per minute\n"
 //            			+ "Quality = %s\n", event.getHeartRate(), event.getQuality()));
-				appendToUI(statusStr);
+				appendHR(String.format("%d", heartRate));
 
                 if (!msgSent) {
                     if (heartRate < low ) {
@@ -143,7 +144,7 @@ public class BandHeartRateAppActivity extends Activity {
 			public void onClick(View v) {
 				txtStatus.setText("");
 				new HeartRateSubscriptionTask().execute();
-                Smooch.getConversation().sendMessage(new Message("Heart rate monitoring has been turned on"));
+                Smooch.getConversation().sendMessage(new Message("Heart rate monitoring has been turned on."));
 			}
 		});
 
@@ -154,8 +155,8 @@ public class BandHeartRateAppActivity extends Activity {
                 if (client != null) {
         			try {
         				client.getSensorManager().unregisterHeartRateEventListener(mHeartRateEventListener);
-                        txtStatus.setText("Heart rate monitoring has been turned off");
-                        Smooch.getConversation().sendMessage(new Message("Heart rate monitoring has been turned off"));
+                        txtStatus.setText("Heart rate monitoring has been turned off.");
+                        Smooch.getConversation().sendMessage(new Message("Heart rate monitoring has been turned off."));
 
         			} catch (BandIOException e) {
         				appendToUI(e.getMessage());
@@ -188,7 +189,7 @@ public class BandHeartRateAppActivity extends Activity {
 //            @Override
 //            public void run() {
         new HeartRateSubscriptionTask().execute();
-        Smooch.getConversation().sendMessage(new Message("App has been turned on"));
+        Smooch.getConversation().sendMessage(new Message("App has been turned on."));
 //            }
 //        }).start();
     }
@@ -234,7 +235,7 @@ public class BandHeartRateAppActivity extends Activity {
 					if (client.getSensorManager().getCurrentHeartRateConsent() == UserConsent.GRANTED) {
 						client.getSensorManager().registerHeartRateEventListener(mHeartRateEventListener);
 					} else {
-						appendToUI("Please press the Pair Wristband button, and then Start monitoring\n");
+						appendToUI("Please press the Pair Wristband button, and then Start monitoring.\n");
 					}
 				} else {
 					appendToUI("Band isn't connected. Please make sure bluetooth is on and the band is in range.\n");
@@ -306,6 +307,21 @@ public class BandHeartRateAppActivity extends Activity {
             	txtStatus.setText(string);
             }
         });
+	}
+
+	private void appendHR(final String string) {
+		this.runOnUiThread(new Runnable() {
+			@Override
+			public void run() {
+				txtStatus.setText(string);
+				if (Integer.parseInt(string) < low || Integer.parseInt(string) > high) {
+					txtStatus.setTextColor(Color.RED);
+				} else {
+					txtStatus.setTextColor(Color.BLUE);
+				}
+
+			}
+		});
 	}
     
 	private boolean getConnectedBandClient() throws InterruptedException, BandException {
